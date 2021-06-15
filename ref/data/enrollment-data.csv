@@ -1,0 +1,775 @@
+Date,variable,value
+2018-01-16,Registered,163.0
+2018-02-12,Registered,218.0
+2018-02-20,Registered,231.0
+2018-02-26,Registered,256.0
+2018-03-05,Registered,290.0
+2018-03-12,Registered,324.0
+2018-03-19,Registered,358.0
+2018-03-26,Registered,375.0
+2018-04-01,Registered,386.0
+2018-04-09,Registered,420.0
+2018-04-18,Registered,433.0
+2018-04-23,Registered,437.0
+2018-04-30,Registered,444.0
+2018-05-07,Registered,445.0
+2018-05-14,Registered,450.0
+2018-05-21,Registered,456.0
+2018-05-30,Registered,461.0
+2018-06-04,Registered,461.0
+2018-06-18,Registered,475.0
+2018-07-03,Registered,478.0
+2018-07-10,Registered,479.0
+2018-07-16,Registered,480.0
+2018-07-23,Registered,497.0
+2018-07-30,Registered,499.0
+2018-08-06,Registered,503.0
+2018-08-13,Registered,508.0
+2018-08-20,Registered,513.0
+2018-09-17,Registered,525.0
+2018-09-25,Registered,532.0
+2018-10-15,Registered,566.0
+2018-11-01,Registered,588.0
+2018-11-07,Registered,593.0
+2018-11-14,Registered,594.0
+2018-11-21,Registered,597.0
+2018-11-27,Registered,598.0
+2018-12-05,Registered,604.0
+2019-01-01,Registered,621.0
+2019-01-09,Registered,624.0
+2019-01-16,Registered,630.0
+2019-01-22,Registered,633.0
+2019-01-28,Registered,633.0
+2019-02-04,Registered,642.0
+2019-02-25,Registered,649.0
+2019-03-04,Registered,655.0
+2019-03-11,Registered,660.0
+2019-03-18,Registered,667.0
+2019-03-25,Registered,677.0
+2019-04-01,Registered,679.0
+2019-04-08,Registered,682.0
+2019-04-16,Registered,684.0
+2019-04-22,Registered,692.0
+2019-04-29,Registered,721.0
+2019-05-06,Registered,729.0
+2019-05-13,Registered,730.0
+2019-05-20,Registered,734.0
+2019-05-29,Registered,739.0
+2019-06-03,Registered,743.0
+2019-06-10,Registered,749.0
+2019-06-17,Registered,760.0
+2019-06-24,Registered,770.0
+2019-07-05,Registered,773.0
+2019-07-08,Registered,773.0
+2019-07-15,Registered,782.0
+2019-07-22,Registered,783.0
+2019-08-05,Registered,818.0
+2019-08-12,Registered,828.0
+2019-08-19,Registered,836.0
+2019-08-26,Registered,840.0
+2018-01-16,Enrolled,120.0
+2018-02-12,Enrolled,167.0
+2018-02-20,Enrolled,174.0
+2018-02-26,Enrolled,187.0
+2018-03-05,Enrolled,213.0
+2018-03-12,Enrolled,241.0
+2018-03-19,Enrolled,268.0
+2018-03-26,Enrolled,279.0
+2018-04-01,Enrolled,289.0
+2018-04-09,Enrolled,317.0
+2018-04-18,Enrolled,326.0
+2018-04-23,Enrolled,329.0
+2018-04-30,Enrolled,334.0
+2018-05-07,Enrolled,335.0
+2018-05-14,Enrolled,338.0
+2018-05-21,Enrolled,341.0
+2018-05-30,Enrolled,342.0
+2018-06-04,Enrolled,342.0
+2018-06-18,Enrolled,348.0
+2018-07-03,Enrolled,350.0
+2018-07-10,Enrolled,351.0
+2018-07-16,Enrolled,354.0
+2018-07-23,Enrolled,362.0
+2018-07-30,Enrolled,366.0
+2018-08-06,Enrolled,386.0
+2018-08-13,Enrolled,374.0
+2018-08-20,Enrolled,378.0
+2018-09-17,Enrolled,386.0
+2018-09-25,Enrolled,389.0
+2018-10-15,Enrolled,410.0
+2018-11-01,Enrolled,428.0
+2018-11-07,Enrolled,431.0
+2018-11-14,Enrolled,433.0
+2018-11-21,Enrolled,434.0
+2018-11-27,Enrolled,434.0
+2018-12-05,Enrolled,439.0
+2019-01-01,Enrolled,446.0
+2019-01-09,Enrolled,449.0
+2019-01-16,Enrolled,454.0
+2019-01-22,Enrolled,455.0
+2019-01-28,Enrolled,456.0
+2019-02-04,Enrolled,459.0
+2019-02-25,Enrolled,464.0
+2019-03-04,Enrolled,468.0
+2019-03-11,Enrolled,470.0
+2019-03-18,Enrolled,474.0
+2019-03-25,Enrolled,482.0
+2019-04-01,Enrolled,483.0
+2019-04-08,Enrolled,487.0
+2019-04-16,Enrolled,487.0
+2019-04-22,Enrolled,491.0
+2019-04-29,Enrolled,513.0
+2019-05-06,Enrolled,520.0
+2019-05-13,Enrolled,522.0
+2019-05-20,Enrolled,525.0
+2019-05-29,Enrolled,526.0
+2019-06-03,Enrolled,529.0
+2019-06-10,Enrolled,533.0
+2019-06-17,Enrolled,541.0
+2019-06-24,Enrolled,545.0
+2019-07-05,Enrolled,547.0
+2019-07-08,Enrolled,547.0
+2019-07-15,Enrolled,552.0
+2019-07-22,Enrolled,555.0
+2019-08-05,Enrolled,582.0
+2019-08-12,Enrolled,589.0
+2019-08-19,Enrolled,592.0
+2019-08-26,Enrolled,594.0
+2018-01-16,Saliva kits,10.0
+2018-02-12,Saliva kits,85.0
+2018-02-20,Saliva kits,97.0
+2018-02-26,Saliva kits,107.0
+2018-03-05,Saliva kits,108.0
+2018-03-12,Saliva kits,128.0
+2018-03-19,Saliva kits,142.0
+2018-03-26,Saliva kits,168.0
+2018-04-01,Saliva kits,194.0
+2018-04-09,Saliva kits,203.0
+2018-04-18,Saliva kits,222.0
+2018-04-23,Saliva kits,234.0
+2018-04-30,Saliva kits,247.0
+2018-05-07,Saliva kits,249.0
+2018-05-14,Saliva kits,255.0
+2018-05-21,Saliva kits,255.0
+2018-05-30,Saliva kits,256.0
+2018-06-04,Saliva kits,256.0
+2018-06-18,Saliva kits,266.0
+2018-07-03,Saliva kits,273.0
+2018-07-10,Saliva kits,275.0
+2018-07-16,Saliva kits,276.0
+2018-07-23,Saliva kits,277.0
+2018-07-30,Saliva kits,281.0
+2018-08-06,Saliva kits,282.0
+2018-08-13,Saliva kits,286.0
+2018-08-20,Saliva kits,291.0
+2018-09-17,Saliva kits,298.0
+2018-09-25,Saliva kits,301.0
+2018-10-15,Saliva kits,310.0
+2018-11-01,Saliva kits,330.0
+2018-11-07,Saliva kits,330.0
+2018-11-14,Saliva kits,335.0
+2018-11-21,Saliva kits,344.0
+2018-11-27,Saliva kits,345.0
+2018-12-05,Saliva kits,348.0
+2019-01-01,Saliva kits,354.0
+2019-01-09,Saliva kits,359.0
+2019-01-16,Saliva kits,362.0
+2019-01-22,Saliva kits,362.0
+2019-01-28,Saliva kits,362.0
+2019-02-04,Saliva kits,368.0
+2019-02-25,Saliva kits,371.0
+2019-03-04,Saliva kits,372.0
+2019-03-11,Saliva kits,373.0
+2019-03-18,Saliva kits,377.0
+2019-03-25,Saliva kits,379.0
+2019-04-01,Saliva kits,381.0
+2019-04-08,Saliva kits,385.0
+2019-04-16,Saliva kits,386.0
+2019-04-22,Saliva kits,386.0
+2019-04-29,Saliva kits,391.0
+2019-05-06,Saliva kits,395.0
+2019-05-13,Saliva kits,395.0
+2019-05-20,Saliva kits,408.0
+2019-05-29,Saliva kits,412.0
+2019-06-03,Saliva kits,416.0
+2019-06-10,Saliva kits,417.0
+2019-06-17,Saliva kits,421.0
+2019-06-24,Saliva kits,421.0
+2019-07-05,Saliva kits,421.0
+2019-07-08,Saliva kits,421.0
+2019-07-15,Saliva kits,432.0
+2019-07-22,Saliva kits,434.0
+2019-08-05,Saliva kits,442.0
+2019-08-12,Saliva kits,448.0
+2019-08-19,Saliva kits,457.0
+2019-08-26,Saliva kits,464.0
+2018-01-16,Blood kits,7.0
+2018-02-12,Blood kits,9.0
+2018-02-20,Blood kits,9.0
+2018-02-26,Blood kits,11.0
+2018-03-05,Blood kits,11.0
+2018-03-12,Blood kits,16.0
+2018-03-19,Blood kits,25.0
+2018-03-26,Blood kits,32.0
+2018-04-01,Blood kits,42.0
+2018-04-09,Blood kits,48.0
+2018-04-18,Blood kits,53.0
+2018-04-23,Blood kits,55.0
+2018-04-30,Blood kits,59.0
+2018-05-07,Blood kits,61.0
+2018-05-14,Blood kits,64.0
+2018-05-21,Blood kits,67.0
+2018-05-30,Blood kits,70.0
+2018-06-04,Blood kits,71.0
+2018-06-18,Blood kits,78.0
+2018-07-03,Blood kits,79.0
+2018-07-10,Blood kits,81.0
+2018-07-16,Blood kits,82.0
+2018-07-23,Blood kits,85.0
+2018-07-30,Blood kits,91.0
+2018-08-06,Blood kits,96.0
+2018-08-13,Blood kits,101.0
+2018-08-20,Blood kits,109.0
+2018-09-17,Blood kits,158.0
+2018-09-25,Blood kits,172.0
+2018-10-15,Blood kits,189.0
+2018-11-01,Blood kits,200.0
+2018-11-07,Blood kits,207.0
+2018-11-14,Blood kits,207.0
+2018-11-21,Blood kits,216.0
+2018-11-27,Blood kits,219.0
+2018-12-05,Blood kits,229.0
+2019-01-01,Blood kits,241.0
+2019-01-09,Blood kits,243.0
+2019-01-16,Blood kits,243.0
+2019-01-22,Blood kits,244.0
+2019-01-28,Blood kits,256.0
+2019-02-04,Blood kits,259.0
+2019-02-25,Blood kits,272.0
+2019-03-04,Blood kits,282.0
+2019-03-11,Blood kits,285.0
+2019-03-18,Blood kits,289.0
+2019-03-25,Blood kits,294.0
+2019-04-01,Blood kits,296.0
+2019-04-08,Blood kits,297.0
+2019-04-16,Blood kits,298.0
+2019-04-22,Blood kits,301.0
+2019-04-29,Blood kits,307.0
+2019-05-06,Blood kits,315.0
+2019-05-13,Blood kits,317.0
+2019-05-20,Blood kits,321.0
+2019-05-29,Blood kits,323.0
+2019-06-03,Blood kits,323.0
+2019-06-10,Blood kits,328.0
+2019-06-17,Blood kits,334.0
+2019-06-24,Blood kits,339.0
+2019-07-05,Blood kits,346.0
+2019-07-08,Blood kits,348.0
+2019-07-15,Blood kits,351.0
+2019-07-22,Blood kits,354.0
+2019-08-05,Blood kits,356.0
+2019-08-12,Blood kits,358.0
+2019-08-19,Blood kits,358.0
+2019-08-26,Blood kits,359.0
+2018-01-16,Tumor tissue,0.0
+2018-02-12,Tumor tissue,1.0
+2018-02-20,Tumor tissue,1.0
+2018-02-26,Tumor tissue,1.0
+2018-03-05,Tumor tissue,2.0
+2018-03-12,Tumor tissue,2.0
+2018-03-19,Tumor tissue,2.0
+2018-03-26,Tumor tissue,2.0
+2018-04-01,Tumor tissue,2.0
+2018-04-09,Tumor tissue,2.0
+2018-04-18,Tumor tissue,6.0
+2018-04-23,Tumor tissue,7.0
+2018-04-30,Tumor tissue,7.0
+2018-05-07,Tumor tissue,7.0
+2018-05-14,Tumor tissue,8.0
+2018-05-21,Tumor tissue,8.0
+2018-05-30,Tumor tissue,8.0
+2018-06-04,Tumor tissue,8.0
+2018-06-18,Tumor tissue,10.0
+2018-07-03,Tumor tissue,17.0
+2018-07-10,Tumor tissue,18.0
+2018-07-16,Tumor tissue,20.0
+2018-07-23,Tumor tissue,21.0
+2018-07-30,Tumor tissue,22.0
+2018-08-06,Tumor tissue,24.0
+2018-08-13,Tumor tissue,26.0
+2018-08-20,Tumor tissue,28.0
+2018-09-17,Tumor tissue,39.0
+2018-09-25,Tumor tissue,39.0
+2018-10-15,Tumor tissue,40.0
+2018-11-01,Tumor tissue,42.0
+2018-11-07,Tumor tissue,43.0
+2018-11-14,Tumor tissue,43.0
+2018-11-21,Tumor tissue,43.0
+2018-11-27,Tumor tissue,43.0
+2018-12-05,Tumor tissue,44.0
+2019-01-01,Tumor tissue,44.0
+2019-01-09,Tumor tissue,45.0
+2019-01-16,Tumor tissue,46.0
+2019-01-22,Tumor tissue,50.0
+2019-01-28,Tumor tissue,50.0
+2019-02-04,Tumor tissue,52.0
+2019-02-25,Tumor tissue,54.0
+2019-03-04,Tumor tissue,55.0
+2019-03-11,Tumor tissue,57.0
+2019-03-18,Tumor tissue,58.0
+2019-03-25,Tumor tissue,63.0
+2019-04-01,Tumor tissue,65.0
+2019-04-08,Tumor tissue,70.0
+2019-04-16,Tumor tissue,73.0
+2019-04-22,Tumor tissue,77.0
+2019-04-29,Tumor tissue,81.0
+2019-05-06,Tumor tissue,83.0
+2019-05-13,Tumor tissue,83.0
+2019-05-20,Tumor tissue,89.0
+2019-05-29,Tumor tissue,93.0
+2019-06-03,Tumor tissue,94.0
+2019-06-10,Tumor tissue,96.0
+2019-06-17,Tumor tissue,102.0
+2019-06-24,Tumor tissue,112.0
+2019-07-05,Tumor tissue,117.0
+2019-07-08,Tumor tissue,117.0
+2019-07-15,Tumor tissue,123.0
+2019-07-22,Tumor tissue,126.0
+2019-08-05,Tumor tissue,129.0
+2019-08-12,Tumor tissue,130.0
+2019-08-19,Tumor tissue,132.0
+2019-08-26,Tumor tissue,132.0
+2019-09-06,Registered,852.0
+2019-09-09,Registered,853.0
+2019-09-16,Registered,861.0
+2019-09-23,Registered,875.0
+2019-10-01,Registered,885.0
+2019-10-07,Registered,887.0
+2019-10-16,Registered,894.0
+2019-10-21,Registered,894.0
+2019-10-28,Registered,899.0
+2019-11-04,Registered,904.0
+2019-11-12,Registered,907.0
+2019-11-18,Registered,914.0
+2019-11-25,Registered,915.0
+2019-12-02,Registered,916.0
+2019-12-16,Registered,918.0
+2020-01-06,Registered,934.0
+2020-01-13,Registered,940.0
+2020-01-21,Registered,943.0
+2020-01-27,Registered,944.0
+2020-02-03,Registered,946.0
+2020-02-10,Registered,946.0
+2020-02-18,Registered,950.0
+2020-02-25,Registered,952.0
+2020-03-02,Registered,956.0
+2020-03-09,Registered,959.0
+2020-03-17,Registered,961.0
+2020-03-23,Registered,961.0
+2020-04-06,Registered,964.0
+2020-04-13,Registered,964.0
+2020-04-27,Registered,968.0
+2020-05-04,Registered,971.0
+2020-05-11,Registered,972.0
+2020-05-18,Registered,973.0
+2020-05-25,Registered,975.0
+2020-06-01,Registered,976.0
+2020-06-08,Registered,977.0
+2020-06-15,Registered,977.0
+2020-06-22,Registered,977.0
+2020-06-29,Registered,978.0
+2020-07-06,Registered,978.0
+2020-07-13,Registered,980.0
+2020-07-20,Registered,982.0
+2020-07-27,Registered,984.0
+2020-08-03,Registered,985.0
+2020-08-10,Registered,985.0
+2020-08-17,Registered,985.0
+2020-09-08,Registered,991.0
+2020-09-14,Registered,993.0
+2020-09-28,Registered,999.0
+2020-10-05,Registered,1000.0
+2020-10-19,Registered,1000.0
+2020-10-26,Registered,1002.0
+2020-11-02,Registered,1003.0
+2020-11-09,Registered,1005.0
+2020-11-30,Registered,1012.0
+2020-12-07,Registered,1013.0
+2021-01-04,Registered,1015.0
+2021-01-11,Registered,1016.0
+2021-01-20,Registered,1017.0
+2021-01-25,Registered,1017.0
+2021-02-01,Registered,1023.0
+2019-09-06,Enrolled,636.0
+2019-09-09,Enrolled,638.0
+2019-09-16,Enrolled,645.0
+2019-09-23,Enrolled,652.0
+2019-10-01,Enrolled,657.0
+2019-10-07,Enrolled,659.0
+2019-10-16,Enrolled,664.0
+2019-10-21,Enrolled,664.0
+2019-10-28,Enrolled,667.0
+2019-11-04,Enrolled,672.0
+2019-11-12,Enrolled,674.0
+2019-11-18,Enrolled,679.0
+2019-11-25,Enrolled,679.0
+2019-12-02,Enrolled,679.0
+2019-12-16,Enrolled,681.0
+2020-01-06,Enrolled,694.0
+2020-01-13,Enrolled,695.0
+2020-01-21,Enrolled,696.0
+2020-01-27,Enrolled,697.0
+2020-02-03,Enrolled,699.0
+2020-02-10,Enrolled,700.0
+2020-02-18,Enrolled,700.0
+2020-02-25,Enrolled,701.0
+2020-03-02,Enrolled,703.0
+2020-03-09,Enrolled,703.0
+2020-03-17,Enrolled,706.0
+2020-03-23,Enrolled,706.0
+2020-04-06,Enrolled,708.0
+2020-04-13,Enrolled,708.0
+2020-04-27,Enrolled,712.0
+2020-05-04,Enrolled,714.0
+2020-05-11,Enrolled,715.0
+2020-05-18,Enrolled,716.0
+2020-05-25,Enrolled,717.0
+2020-06-01,Enrolled,717.0
+2020-06-08,Enrolled,718.0
+2020-06-15,Enrolled,718.0
+2020-06-22,Enrolled,719.0
+2020-06-29,Enrolled,720.0
+2020-07-06,Enrolled,720.0
+2020-07-13,Enrolled,722.0
+2020-07-20,Enrolled,722.0
+2020-07-27,Enrolled,722.0
+2020-08-03,Enrolled,722.0
+2020-08-10,Enrolled,722.0
+2020-08-17,Enrolled,722.0
+2020-09-08,Enrolled,726.0
+2020-09-14,Enrolled,727.0
+2020-09-28,Enrolled,730.0
+2020-10-05,Enrolled,731.0
+2020-10-19,Enrolled,731.0
+2020-10-26,Enrolled,732.0
+2020-11-02,Enrolled,733.0
+2020-11-09,Enrolled,733.0
+2020-11-30,Enrolled,735.0
+2020-12-07,Enrolled,735.0
+2021-01-04,Enrolled,737.0
+2021-01-11,Enrolled,737.0
+2021-01-20,Enrolled,737.0
+2021-01-25,Enrolled,737.0
+2021-02-01,Enrolled,737.0
+2019-09-06,Saliva kits,474.0
+2019-09-09,Saliva kits,474.0
+2019-09-16,Saliva kits,475.0
+2019-09-23,Saliva kits,480.0
+2019-10-01,Saliva kits,481.0
+2019-10-07,Saliva kits,484.0
+2019-10-16,Saliva kits,485.0
+2019-10-21,Saliva kits,490.0
+2019-10-28,Saliva kits,494.0
+2019-11-04,Saliva kits,494.0
+2019-11-12,Saliva kits,495.0
+2019-11-18,Saliva kits,498.0
+2019-11-25,Saliva kits,499.0
+2019-12-02,Saliva kits,501.0
+2019-12-16,Saliva kits,503.0
+2020-01-06,Saliva kits,504.0
+2020-01-13,Saliva kits,504.0
+2020-01-21,Saliva kits,507.0
+2020-01-27,Saliva kits,510.0
+2020-02-03,Saliva kits,512.0
+2020-02-10,Saliva kits,512.0
+2020-02-18,Saliva kits,513.0
+2020-02-25,Saliva kits,513.0
+2020-03-02,Saliva kits,513.0
+2020-03-09,Saliva kits,513.0
+2020-03-17,Saliva kits,513.0
+2020-03-23,Saliva kits,513.0
+2020-04-06,Saliva kits,513.0
+2020-04-13,Saliva kits,513.0
+2020-04-27,Saliva kits,513.0
+2020-05-04,Saliva kits,513.0
+2020-05-11,Saliva kits,513.0
+2020-05-18,Saliva kits,513.0
+2020-05-25,Saliva kits,513.0
+2020-06-01,Saliva kits,513.0
+2020-06-08,Saliva kits,513.0
+2020-06-15,Saliva kits,513.0
+2020-06-22,Saliva kits,513.0
+2020-06-29,Saliva kits,513.0
+2020-07-06,Saliva kits,517.0
+2020-07-13,Saliva kits,517.0
+2020-07-20,Saliva kits,517.0
+2020-07-27,Saliva kits,517.0
+2020-08-03,Saliva kits,517.0
+2020-08-10,Saliva kits,517.0
+2020-08-17,Saliva kits,517.0
+2020-09-08,Saliva kits,517.0
+2020-09-14,Saliva kits,517.0
+2020-09-28,Saliva kits,523.0
+2020-10-05,Saliva kits,524.0
+2020-10-19,Saliva kits,526.0
+2020-10-26,Saliva kits,526.0
+2020-11-02,Saliva kits,526.0
+2020-11-09,Saliva kits,527.0
+2020-11-30,Saliva kits,527.0
+2020-12-07,Saliva kits,531.0
+2021-01-04,Saliva kits,539.0
+2021-01-11,Saliva kits,539.0
+2021-01-20,Saliva kits,540.0
+2021-01-25,Saliva kits,541.0
+2021-02-01,Saliva kits,544.0
+2019-09-06,Blood kits,358.0
+2019-09-09,Blood kits,358.0
+2019-09-16,Blood kits,358.0
+2019-09-23,Blood kits,358.0
+2019-10-01,Blood kits,358.0
+2019-10-07,Blood kits,358.0
+2019-10-16,Blood kits,358.0
+2019-10-21,Blood kits,358.0
+2019-10-28,Blood kits,359.0
+2019-11-04,Blood kits,359.0
+2019-11-12,Blood kits,359.0
+2019-11-18,Blood kits,359.0
+2019-11-25,Blood kits,359.0
+2019-12-02,Blood kits,359.0
+2019-12-16,Blood kits,360.0
+2020-01-06,Blood kits,360.0
+2020-01-13,Blood kits,360.0
+2020-01-21,Blood kits,360.0
+2020-01-27,Blood kits,360.0
+2020-02-03,Blood kits,360.0
+2020-02-10,Blood kits,360.0
+2020-02-18,Blood kits,360.0
+2020-02-25,Blood kits,360.0
+2020-03-02,Blood kits,377.0
+2020-03-09,Blood kits,382.0
+2020-03-17,Blood kits,395.0
+2020-03-23,Blood kits,396.0
+2020-04-06,Blood kits,396.0
+2020-04-13,Blood kits,397.0
+2020-04-27,Blood kits,398.0
+2020-05-04,Blood kits,398.0
+2020-05-11,Blood kits,399.0
+2020-05-18,Blood kits,399.0
+2020-05-25,Blood kits,400.0
+2020-06-01,Blood kits,400.0
+2020-06-08,Blood kits,400.0
+2020-06-15,Blood kits,402.0
+2020-06-22,Blood kits,402.0
+2020-06-29,Blood kits,402.0
+2020-07-06,Blood kits,406.0
+2020-07-13,Blood kits,409.0
+2020-07-20,Blood kits,409.0
+2020-07-27,Blood kits,415.0
+2020-08-03,Blood kits,415.0
+2020-08-10,Blood kits,415.0
+2020-08-17,Blood kits,420.0
+2020-09-08,Blood kits,421.0
+2020-09-14,Blood kits,422.0
+2020-09-28,Blood kits,422.0
+2020-10-05,Blood kits,426.0
+2020-10-19,Blood kits,427.0
+2020-10-26,Blood kits,427.0
+2020-11-02,Blood kits,427.0
+2020-11-09,Blood kits,427.0
+2020-11-30,Blood kits,429.0
+2020-12-07,Blood kits,430.0
+2021-01-04,Blood kits,434.0
+2021-01-11,Blood kits,434.0
+2021-01-20,Blood kits,434.0
+2021-01-25,Blood kits,434.0
+2021-02-01,Blood kits,434.0
+2019-09-06,Tumor tissue,142.0
+2019-09-09,Tumor tissue,142.0
+2019-09-16,Tumor tissue,142.0
+2019-09-23,Tumor tissue,146.0
+2019-10-01,Tumor tissue,147.0
+2019-10-07,Tumor tissue,147.0
+2019-10-16,Tumor tissue,147.0
+2019-10-21,Tumor tissue,147.0
+2019-10-28,Tumor tissue,151.0
+2019-11-04,Tumor tissue,154.0
+2019-11-12,Tumor tissue,157.0
+2019-11-18,Tumor tissue,159.0
+2019-11-25,Tumor tissue,166.0
+2019-12-02,Tumor tissue,167.0
+2019-12-16,Tumor tissue,169.0
+2020-01-06,Tumor tissue,170.0
+2020-01-13,Tumor tissue,170.0
+2020-01-21,Tumor tissue,170.0
+2020-01-27,Tumor tissue,170.0
+2020-02-03,Tumor tissue,171.0
+2020-02-10,Tumor tissue,174.0
+2020-02-18,Tumor tissue,177.0
+2020-02-25,Tumor tissue,183.0
+2020-03-02,Tumor tissue,186.0
+2020-03-09,Tumor tissue,186.0
+2020-03-17,Tumor tissue,186.0
+2020-03-23,Tumor tissue,186.0
+2020-04-06,Tumor tissue,186.0
+2020-04-13,Tumor tissue,186.0
+2020-04-27,Tumor tissue,186.0
+2020-05-04,Tumor tissue,186.0
+2020-05-11,Tumor tissue,186.0
+2020-05-18,Tumor tissue,186.0
+2020-05-25,Tumor tissue,186.0
+2020-06-01,Tumor tissue,186.0
+2020-06-08,Tumor tissue,186.0
+2020-06-15,Tumor tissue,186.0
+2020-06-22,Tumor tissue,186.0
+2020-06-29,Tumor tissue,186.0
+2020-07-06,Tumor tissue,186.0
+2020-07-13,Tumor tissue,186.0
+2020-07-20,Tumor tissue,186.0
+2020-07-27,Tumor tissue,186.0
+2020-08-03,Tumor tissue,186.0
+2020-08-10,Tumor tissue,186.0
+2020-08-17,Tumor tissue,186.0
+2020-09-08,Tumor tissue,186.0
+2020-09-14,Tumor tissue,186.0
+2020-09-28,Tumor tissue,186.0
+2020-10-05,Tumor tissue,186.0
+2020-10-19,Tumor tissue,188.0
+2020-10-26,Tumor tissue,188.0
+2020-11-02,Tumor tissue,188.0
+2020-11-09,Tumor tissue,188.0
+2020-11-30,Tumor tissue,188.0
+2020-12-07,Tumor tissue,188.0
+2021-01-04,Tumor tissue,188.0
+2021-01-11,Tumor tissue,188.0
+2021-01-20,Tumor tissue,188.0
+2021-01-25,Tumor tissue,188.0
+2021-02-01,Tumor tissue,188.0
+2018-01-16,Medical records,11.0
+2018-02-12,Medical records,13.0
+2018-02-20,Medical records,14.0
+2018-02-26,Medical records,15.0
+2018-03-05,Medical records,18.0
+2018-03-12,Medical records,26.0
+2018-03-19,Medical records,32.0
+2018-03-26,Medical records,36.0
+2018-04-01,Medical records,43.0
+2018-04-09,Medical records,51.0
+2018-04-18,Medical records,60.0
+2018-04-23,Medical records,62.0
+2018-04-30,Medical records,71.0
+2018-05-07,Medical records,81.0
+2018-05-14,Medical records,92.0
+2018-05-21,Medical records,104.0
+2018-05-30,Medical records,129.0
+2018-06-04,Medical records,139.0
+2018-06-18,Medical records,153.0
+2018-07-03,Medical records,160.0
+2018-07-10,Medical records,160.0
+2018-07-16,Medical records,160.0
+2018-07-23,Medical records,160.0
+2018-07-30,Medical records,171.0
+2018-08-06,Medical records,187.0
+2018-08-13,Medical records,195.0
+2018-08-20,Medical records,208.0
+2018-09-17,Medical records,234.0
+2018-09-25,Medical records,244.0
+2018-10-15,Medical records,248.0
+2018-11-01,Medical records,266.0
+2018-11-07,Medical records,269.0
+2018-11-14,Medical records,275.0
+2018-11-21,Medical records,275.0
+2018-11-27,Medical records,276.0
+2018-12-05,Medical records,281.0
+2019-01-01,Medical records,283.0
+2019-01-09,Medical records,283.0
+2019-01-16,Medical records,285.0
+2019-01-22,Medical records,285.0
+2019-01-28,Medical records,286.0
+2019-02-04,Medical records,291.0
+2019-02-25,Medical records,309.0
+2019-03-04,Medical records,312.0
+2019-03-11,Medical records,315.0
+2019-03-18,Medical records,321.0
+2019-03-25,Medical records,325.0
+2019-04-01,Medical records,327.0
+2019-04-08,Medical records,333.0
+2019-04-16,Medical records,334.0
+2019-04-22,Medical records,336.0
+2019-04-29,Medical records,336.0
+2019-05-06,Medical records,343.0
+2019-05-13,Medical records,348.0
+2019-05-20,Medical records,352.0
+2019-05-29,Medical records,356.0
+2019-06-03,Medical records,361.0
+2019-06-10,Medical records,376.0
+2019-06-17,Medical records,381.0
+2019-06-24,Medical records,385.0
+2019-07-05,Medical records,385.0
+2019-07-08,Medical records,385.0
+2019-07-15,Medical records,387.0
+2019-07-22,Medical records,393.0
+2019-08-05,Medical records,406.0
+2019-08-12,Medical records,410.0
+2019-08-19,Medical records,414.0
+2019-08-26,Medical records,422.0
+2019-09-06,Medical records,437.0
+2019-09-09,Medical records,440.0
+2019-09-16,Medical records,451.0
+2019-09-23,Medical records,457.0
+2019-10-01,Medical records,457.0
+2019-10-07,Medical records,462.0
+2019-10-16,Medical records,465.0
+2019-10-21,Medical records,469.0
+2019-10-28,Medical records,469.0
+2019-11-04,Medical records,470.0
+2019-11-12,Medical records,471.0
+2019-11-18,Medical records,473.0
+2019-11-25,Medical records,474.0
+2019-12-02,Medical records,475.0
+2019-12-16,Medical records,478.0
+2020-01-06,Medical records,482.0
+2020-01-13,Medical records,482.0
+2020-01-21,Medical records,482.0
+2020-01-27,Medical records,482.0
+2020-02-03,Medical records,484.0
+2020-02-10,Medical records,486.0
+2020-02-18,Medical records,488.0
+2020-02-25,Medical records,493.0
+2020-03-02,Medical records,495.0
+2020-03-09,Medical records,495.0
+2020-03-17,Medical records,495.0
+2020-03-23,Medical records,495.0
+2020-04-06,Medical records,496.0
+2020-04-13,Medical records,496.0
+2020-04-27,Medical records,496.0
+2020-05-04,Medical records,496.0
+2020-05-11,Medical records,496.0
+2020-05-18,Medical records,496.0
+2020-05-25,Medical records,496.0
+2020-06-01,Medical records,496.0
+2020-06-08,Medical records,496.0
+2020-06-15,Medical records,496.0
+2020-06-22,Medical records,496.0
+2020-06-29,Medical records,496.0
+2020-07-06,Medical records,496.0
+2020-07-13,Medical records,496.0
+2020-07-20,Medical records,496.0
+2020-07-27,Medical records,496.0
+2020-08-03,Medical records,496.0
+2020-08-10,Medical records,497.0
+2020-08-17,Medical records,497.0
+2020-09-08,Medical records,497.0
+2020-09-14,Medical records,497.0
+2020-09-28,Medical records,497.0
+2020-10-05,Medical records,497.0
+2020-10-19,Medical records,497.0
+2020-10-26,Medical records,498.0
+2020-11-02,Medical records,498.0
+2020-11-09,Medical records,498.0
+2020-11-30,Medical records,498.0
+2020-12-07,Medical records,498.0
+2021-01-04,Medical records,499.0
+2021-01-11,Medical records,499.0
+2021-01-20,Medical records,502.0
+2021-01-25,Medical records,502.0
+2021-02-01,Medical records,508.0

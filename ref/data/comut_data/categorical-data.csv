@@ -1,0 +1,1284 @@
+sample,category,value
+MPCproject_0013_T,WGD,No
+MPCproject_0022_T,WGD,No
+MPCproject_0028_T,WGD,No
+MPCproject_0031_T,WGD,No
+MPCproject_0054_T,WGD,No
+MPCproject_0056_T,WGD,No
+MPCproject_0062_T,WGD,No
+MPCproject_0085_T,WGD,No
+MPCproject_0087_T,WGD,No
+MPCproject_0093_T,WGD,No
+MPCproject_0100_T,WGD,No
+MPCproject_0120_T,WGD,No
+MPCproject_0123_T,WGD,No
+MPCproject_0125_T,WGD,No
+MPCproject_0136_T,WGD,No
+MPCproject_0142_T,WGD,No
+MPCproject_0149_T,WGD,No
+MPCproject_0161_T,WGD,No
+MPCproject_0177_T,WGD,No
+MPCproject_0181_T,WGD,Yes
+MPCproject_0182_T,WGD,No
+MPCproject_0186_T,WGD,No
+MPCproject_0187_T,WGD,No
+MPCproject_0190_T,WGD,Yes
+MPCproject_0193_T,WGD,No
+MPCproject_0212_T,WGD,No
+MPCproject_0213_T,WGD,No
+MPCproject_0215_T,WGD,No
+MPCproject_0225_T,WGD,No
+MPCproject_0234_T,WGD,No
+MPCproject_0254_T,WGD,No
+MPCproject_0256_T,WGD,No
+MPCproject_0319_T,WGD,No
+MPCproject_0336_T,WGD,Yes
+MPCproject_0357_T,WGD,Yes
+MPCproject_0035_T,WGD,No
+MPCproject_0364_T,WGD,No
+MPCproject_0036_T,WGD,Yes
+MPCproject_0381_T,WGD,No
+MPCproject_0392_T,WGD,Yes
+MPCproject_0399_T,WGD,No
+MPCproject_0410_T,WGD,No
+MPCproject_0041_T,WGD,No
+MPCproject_0439_T,WGD,No
+MPCproject_0443_T,WGD,No
+MPCproject_0445_T,WGD,No
+MPCproject_0488_T,WGD,No
+MPCproject_0048_T,WGD,No
+MPCproject_0495_T,WGD,No
+MPCproject_0501_T,WGD,No
+MPCproject_0524_T,WGD,No
+MPCproject_0525_T,WGD,No
+MPCproject_0557_T,WGD,No
+MPCproject_0575_T,WGD,No
+MPCproject_0057_T,WGD,No
+MPCproject_0588_T,WGD,No
+MPCproject_0608_T,WGD,No
+MPCproject_0639_T,WGD,No
+MPCproject_0643_T,WGD,No
+MPCproject_0653_T,WGD,No
+MPCproject_0672_T,WGD,No
+MPCproject_0683_T,WGD,No
+MPCproject_0130_T,WGD,No
+MPCproject_0009_B,WGD,No
+MPCproject_0029_B,WGD,No
+MPCproject_0030_B,WGD,No
+MPCproject_0083_B,WGD,No
+MPCproject_0093_B,WGD,No
+MPCproject_0172_B,WGD,No
+MPCproject_0203_B,WGD,No
+MPCproject_0207_B,WGD,No
+MPCproject_0213_B,WGD,No
+MPCproject_0294_B,WGD,No
+MPCproject_0296_B,WGD,Yes
+MPCproject_0002_B,WGD,Yes
+MPCproject_0328_B,WGD,No
+MPCproject_0411_B,WGD,No
+MPCproject_0413_B,WGD,No
+MPCproject_0420_B,WGD,Yes
+MPCproject_0495_B,WGD,No
+MPCproject_0503_B,WGD,No
+MPCproject_0521_B,WGD,No
+MPCproject_0013_T,AR,Baseline
+MPCproject_0013_T,MYC,Allelic amplification
+MPCproject_0013_T,MYC,Baseline
+MPCproject_0013_T,TP53,Baseline
+MPCproject_0013_T,TP53,Baseline
+MPCproject_0013_T,PTEN,Baseline
+MPCproject_0013_T,PTEN,aCN = 0
+MPCproject_0013_T,BRCA2,Baseline
+MPCproject_0013_T,BRCA2,Baseline
+MPCproject_0013_T,NKX3-1,Baseline
+MPCproject_0013_T,NKX3-1,aCN = 0
+MPCproject_0022_T,AR,Baseline
+MPCproject_0022_T,MYC,Baseline
+MPCproject_0022_T,MYC,Baseline
+MPCproject_0022_T,TP53,Baseline
+MPCproject_0022_T,TP53,Baseline
+MPCproject_0022_T,PTEN,aCN = 0
+MPCproject_0022_T,PTEN,aCN = 0
+MPCproject_0022_T,BRCA2,Baseline
+MPCproject_0022_T,BRCA2,aCN = 0
+MPCproject_0022_T,NKX3-1,Baseline
+MPCproject_0022_T,NKX3-1,Baseline
+MPCproject_0028_T,AR,Allelic amplification
+MPCproject_0028_T,MYC,Baseline
+MPCproject_0028_T,MYC,Baseline
+MPCproject_0028_T,TP53,Baseline
+MPCproject_0028_T,TP53,Baseline
+MPCproject_0028_T,PTEN,Baseline
+MPCproject_0028_T,PTEN,Baseline
+MPCproject_0028_T,BRCA2,Baseline
+MPCproject_0028_T,BRCA2,aCN = 0
+MPCproject_0028_T,NKX3-1,Baseline
+MPCproject_0028_T,NKX3-1,Baseline
+MPCproject_0031_T,AR,Baseline
+MPCproject_0031_T,MYC,Baseline
+MPCproject_0031_T,MYC,Baseline
+MPCproject_0031_T,TP53,Baseline
+MPCproject_0031_T,TP53,Baseline
+MPCproject_0031_T,PTEN,Baseline
+MPCproject_0031_T,PTEN,Baseline
+MPCproject_0031_T,BRCA2,Baseline
+MPCproject_0031_T,BRCA2,aCN = 0
+MPCproject_0031_T,NKX3-1,Baseline
+MPCproject_0031_T,NKX3-1,aCN = 0
+MPCproject_0054_T,AR,Baseline
+MPCproject_0054_T,MYC,Baseline
+MPCproject_0054_T,MYC,Baseline
+MPCproject_0054_T,TP53,Baseline
+MPCproject_0054_T,TP53,Baseline
+MPCproject_0054_T,PTEN,Baseline
+MPCproject_0054_T,PTEN,Baseline
+MPCproject_0054_T,BRCA2,Baseline
+MPCproject_0054_T,BRCA2,Baseline
+MPCproject_0054_T,NKX3-1,Baseline
+MPCproject_0054_T,NKX3-1,aCN = 0
+MPCproject_0056_T,AR,Baseline
+MPCproject_0056_T,MYC,Allelic amplification
+MPCproject_0056_T,MYC,Baseline
+MPCproject_0056_T,TP53,Baseline
+MPCproject_0056_T,TP53,aCN = 0
+MPCproject_0056_T,PTEN,Baseline
+MPCproject_0056_T,PTEN,Baseline
+MPCproject_0056_T,BRCA2,aCN = 0
+MPCproject_0056_T,NKX3-1,Baseline
+MPCproject_0056_T,NKX3-1,aCN = 0
+MPCproject_0062_T,AR,Baseline
+MPCproject_0062_T,MYC,Baseline
+MPCproject_0062_T,MYC,Baseline
+MPCproject_0062_T,TP53,Baseline
+MPCproject_0062_T,TP53,aCN = 0
+MPCproject_0062_T,PTEN,Baseline
+MPCproject_0062_T,PTEN,Baseline
+MPCproject_0062_T,BRCA2,Baseline
+MPCproject_0062_T,BRCA2,Baseline
+MPCproject_0062_T,NKX3-1,Baseline
+MPCproject_0062_T,NKX3-1,Baseline
+MPCproject_0085_T,AR,Baseline
+MPCproject_0085_T,MYC,Allelic amplification
+MPCproject_0085_T,MYC,Baseline
+MPCproject_0085_T,TP53,Baseline
+MPCproject_0085_T,TP53,Baseline
+MPCproject_0085_T,PTEN,Baseline
+MPCproject_0085_T,PTEN,Baseline
+MPCproject_0085_T,BRCA2,Baseline
+MPCproject_0085_T,BRCA2,Baseline
+MPCproject_0085_T,NKX3-1,Baseline
+MPCproject_0085_T,NKX3-1,aCN = 0
+MPCproject_0087_T,AR,Allelic amplification
+MPCproject_0087_T,MYC,Baseline
+MPCproject_0087_T,MYC,Baseline
+MPCproject_0087_T,TP53,Baseline
+MPCproject_0087_T,TP53,Baseline
+MPCproject_0087_T,PTEN,Baseline
+MPCproject_0087_T,PTEN,aCN = 0
+MPCproject_0087_T,BRCA2,Baseline
+MPCproject_0087_T,BRCA2,Baseline
+MPCproject_0087_T,NKX3-1,Baseline
+MPCproject_0087_T,NKX3-1,aCN = 0
+MPCproject_0093_T,AR,Baseline
+MPCproject_0093_T,MYC,Baseline
+MPCproject_0093_T,MYC,Baseline
+MPCproject_0093_T,TP53,Baseline
+MPCproject_0093_T,TP53,aCN = 0
+MPCproject_0093_T,PTEN,Baseline
+MPCproject_0093_T,PTEN,Baseline
+MPCproject_0093_T,BRCA2,Baseline
+MPCproject_0093_T,BRCA2,aCN = 0
+MPCproject_0093_T,NKX3-1,Allelic amplification
+MPCproject_0093_T,NKX3-1,Baseline
+MPCproject_0100_T,AR,Baseline
+MPCproject_0100_T,MYC,Baseline
+MPCproject_0100_T,MYC,Baseline
+MPCproject_0100_T,TP53,Baseline
+MPCproject_0100_T,TP53,aCN = 0
+MPCproject_0100_T,PTEN,Baseline
+MPCproject_0100_T,PTEN,aCN = 0
+MPCproject_0100_T,BRCA2,Baseline
+MPCproject_0100_T,BRCA2,aCN = 0
+MPCproject_0100_T,NKX3-1,Baseline
+MPCproject_0100_T,NKX3-1,aCN = 0
+MPCproject_0120_T,AR,Allelic amplification
+MPCproject_0120_T,MYC,Allelic amplification
+MPCproject_0120_T,MYC,Baseline
+MPCproject_0120_T,TP53,Baseline
+MPCproject_0120_T,TP53,Baseline
+MPCproject_0120_T,PTEN,Baseline
+MPCproject_0120_T,PTEN,Baseline
+MPCproject_0120_T,BRCA2,Baseline
+MPCproject_0120_T,BRCA2,Baseline
+MPCproject_0120_T,NKX3-1,Baseline
+MPCproject_0120_T,NKX3-1,aCN = 0
+MPCproject_0123_T,AR,Baseline
+MPCproject_0123_T,MYC,Baseline
+MPCproject_0123_T,MYC,Baseline
+MPCproject_0123_T,TP53,Baseline
+MPCproject_0123_T,TP53,Baseline
+MPCproject_0123_T,PTEN,Baseline
+MPCproject_0123_T,PTEN,aCN = 0
+MPCproject_0123_T,BRCA2,Baseline
+MPCproject_0123_T,BRCA2,Baseline
+MPCproject_0123_T,NKX3-1,Baseline
+MPCproject_0123_T,NKX3-1,aCN = 0
+MPCproject_0125_T,AR,Allelic amplification
+MPCproject_0125_T,MYC,Baseline
+MPCproject_0125_T,MYC,Baseline
+MPCproject_0125_T,TP53,Baseline
+MPCproject_0125_T,TP53,Baseline
+MPCproject_0125_T,PTEN,Baseline
+MPCproject_0125_T,PTEN,Baseline
+MPCproject_0125_T,BRCA2,Baseline
+MPCproject_0125_T,BRCA2,Baseline
+MPCproject_0125_T,NKX3-1,Baseline
+MPCproject_0125_T,NKX3-1,Baseline
+MPCproject_0136_T,AR,Baseline
+MPCproject_0136_T,MYC,Baseline
+MPCproject_0136_T,MYC,Baseline
+MPCproject_0136_T,TP53,Baseline
+MPCproject_0136_T,TP53,aCN = 0
+MPCproject_0136_T,PTEN,Baseline
+MPCproject_0136_T,PTEN,Baseline
+MPCproject_0136_T,BRCA2,Baseline
+MPCproject_0136_T,BRCA2,Baseline
+MPCproject_0136_T,NKX3-1,Baseline
+MPCproject_0136_T,NKX3-1,aCN = 0
+MPCproject_0142_T,AR,Baseline
+MPCproject_0142_T,MYC,Baseline
+MPCproject_0142_T,MYC,Baseline
+MPCproject_0142_T,TP53,Baseline
+MPCproject_0142_T,TP53,aCN = 0
+MPCproject_0142_T,PTEN,Baseline
+MPCproject_0142_T,PTEN,Baseline
+MPCproject_0142_T,NKX3-1,Baseline
+MPCproject_0142_T,NKX3-1,aCN = 0
+MPCproject_0149_T,AR,Baseline
+MPCproject_0149_T,MYC,Allelic amplification
+MPCproject_0149_T,MYC,Baseline
+MPCproject_0149_T,TP53,aCN = 0
+MPCproject_0149_T,TP53,Baseline
+MPCproject_0149_T,PTEN,Baseline
+MPCproject_0149_T,PTEN,Baseline
+MPCproject_0149_T,BRCA2,Baseline
+MPCproject_0149_T,BRCA2,Baseline
+MPCproject_0149_T,NKX3-1,Baseline
+MPCproject_0149_T,NKX3-1,aCN = 0
+MPCproject_0161_T,AR,Allelic amplification
+MPCproject_0161_T,MYC,Allelic amplification
+MPCproject_0161_T,MYC,Baseline
+MPCproject_0161_T,TP53,Baseline
+MPCproject_0161_T,TP53,aCN = 0
+MPCproject_0161_T,BRCA2,Baseline
+MPCproject_0161_T,BRCA2,Baseline
+MPCproject_0161_T,NKX3-1,Baseline
+MPCproject_0161_T,NKX3-1,aCN = 0
+MPCproject_0177_T,AR,Baseline
+MPCproject_0177_T,MYC,Baseline
+MPCproject_0177_T,MYC,Baseline
+MPCproject_0177_T,TP53,Baseline
+MPCproject_0177_T,TP53,aCN = 0
+MPCproject_0177_T,PTEN,Baseline
+MPCproject_0177_T,PTEN,aCN = 0
+MPCproject_0177_T,BRCA2,Baseline
+MPCproject_0177_T,BRCA2,aCN = 0
+MPCproject_0177_T,NKX3-1,Baseline
+MPCproject_0177_T,NKX3-1,aCN = 0
+MPCproject_0181_T,AR,Baseline
+MPCproject_0181_T,MYC,Allelic amplification
+MPCproject_0181_T,MYC,Baseline
+MPCproject_0181_T,TP53,Baseline
+MPCproject_0181_T,TP53,aCN = 0
+MPCproject_0181_T,PTEN,Baseline
+MPCproject_0181_T,PTEN,aCN = 0
+MPCproject_0181_T,BRCA2,Baseline
+MPCproject_0181_T,BRCA2,aCN = 0
+MPCproject_0181_T,NKX3-1,Baseline
+MPCproject_0181_T,NKX3-1,aCN = 0
+MPCproject_0182_T,AR,Baseline
+MPCproject_0182_T,MYC,Baseline
+MPCproject_0182_T,MYC,Baseline
+MPCproject_0182_T,TP53,Baseline
+MPCproject_0182_T,TP53,aCN = 0
+MPCproject_0182_T,PTEN,aCN = 0
+MPCproject_0182_T,PTEN,aCN = 0
+MPCproject_0182_T,BRCA2,Baseline
+MPCproject_0182_T,BRCA2,aCN = 0
+MPCproject_0182_T,NKX3-1,Baseline
+MPCproject_0182_T,NKX3-1,Baseline
+MPCproject_0186_T,AR,Baseline
+MPCproject_0186_T,MYC,Allelic amplification
+MPCproject_0186_T,TP53,Baseline
+MPCproject_0186_T,TP53,Baseline
+MPCproject_0186_T,PTEN,Baseline
+MPCproject_0186_T,PTEN,Baseline
+MPCproject_0186_T,BRCA2,Baseline
+MPCproject_0186_T,BRCA2,Baseline
+MPCproject_0186_T,NKX3-1,Baseline
+MPCproject_0186_T,NKX3-1,aCN = 0
+MPCproject_0187_T,AR,Baseline
+MPCproject_0187_T,MYC,Allelic amplification
+MPCproject_0187_T,MYC,Baseline
+MPCproject_0187_T,TP53,Baseline
+MPCproject_0187_T,TP53,Baseline
+MPCproject_0187_T,PTEN,Baseline
+MPCproject_0187_T,PTEN,Baseline
+MPCproject_0187_T,BRCA2,Baseline
+MPCproject_0187_T,BRCA2,Baseline
+MPCproject_0187_T,NKX3-1,Baseline
+MPCproject_0187_T,NKX3-1,Baseline
+MPCproject_0190_T,AR,Baseline
+MPCproject_0190_T,MYC,Allelic amplification
+MPCproject_0190_T,MYC,Baseline
+MPCproject_0190_T,TP53,Baseline
+MPCproject_0190_T,TP53,aCN = 0
+MPCproject_0190_T,PTEN,Allelic deletion
+MPCproject_0190_T,PTEN,Allelic deletion
+MPCproject_0190_T,BRCA2,Allelic deletion
+MPCproject_0190_T,BRCA2,Allelic deletion
+MPCproject_0190_T,NKX3-1,Baseline
+MPCproject_0190_T,NKX3-1,Baseline
+MPCproject_0193_T,AR,Baseline
+MPCproject_0193_T,MYC,Allelic amplification
+MPCproject_0193_T,MYC,Allelic amplification
+MPCproject_0193_T,TP53,Baseline
+MPCproject_0193_T,TP53,Baseline
+MPCproject_0193_T,PTEN,Baseline
+MPCproject_0193_T,PTEN,Baseline
+MPCproject_0193_T,BRCA2,Baseline
+MPCproject_0193_T,BRCA2,Baseline
+MPCproject_0193_T,NKX3-1,Baseline
+MPCproject_0193_T,NKX3-1,aCN = 0
+MPCproject_0212_T,AR,Baseline
+MPCproject_0212_T,MYC,Baseline
+MPCproject_0212_T,MYC,Baseline
+MPCproject_0212_T,TP53,aCN = 0
+MPCproject_0212_T,TP53,Baseline
+MPCproject_0212_T,PTEN,Baseline
+MPCproject_0212_T,PTEN,aCN = 0
+MPCproject_0212_T,BRCA2,Baseline
+MPCproject_0212_T,BRCA2,aCN = 0
+MPCproject_0212_T,NKX3-1,Baseline
+MPCproject_0212_T,NKX3-1,aCN = 0
+MPCproject_0213_T,AR,Baseline
+MPCproject_0213_T,MYC,Baseline
+MPCproject_0213_T,MYC,Baseline
+MPCproject_0213_T,TP53,Baseline
+MPCproject_0213_T,TP53,aCN = 0
+MPCproject_0213_T,PTEN,Baseline
+MPCproject_0213_T,PTEN,aCN = 0
+MPCproject_0213_T,BRCA2,Baseline
+MPCproject_0213_T,BRCA2,Baseline
+MPCproject_0215_T,AR,Baseline
+MPCproject_0215_T,MYC,Baseline
+MPCproject_0215_T,MYC,Baseline
+MPCproject_0215_T,TP53,Baseline
+MPCproject_0215_T,TP53,Baseline
+MPCproject_0215_T,PTEN,Baseline
+MPCproject_0215_T,PTEN,Baseline
+MPCproject_0215_T,BRCA2,Baseline
+MPCproject_0215_T,BRCA2,Baseline
+MPCproject_0215_T,NKX3-1,Baseline
+MPCproject_0215_T,NKX3-1,aCN = 0
+MPCproject_0225_T,AR,Baseline
+MPCproject_0225_T,MYC,Baseline
+MPCproject_0225_T,MYC,Baseline
+MPCproject_0225_T,TP53,Baseline
+MPCproject_0225_T,TP53,aCN = 0
+MPCproject_0225_T,PTEN,Baseline
+MPCproject_0225_T,PTEN,aCN = 0
+MPCproject_0225_T,BRCA2,Baseline
+MPCproject_0225_T,BRCA2,Baseline
+MPCproject_0225_T,NKX3-1,Baseline
+MPCproject_0225_T,NKX3-1,aCN = 0
+MPCproject_0234_T,AR,Allelic amplification
+MPCproject_0234_T,MYC,Allelic amplification
+MPCproject_0234_T,MYC,Baseline
+MPCproject_0234_T,TP53,Baseline
+MPCproject_0234_T,TP53,Baseline
+MPCproject_0234_T,PTEN,Baseline
+MPCproject_0234_T,PTEN,Baseline
+MPCproject_0234_T,BRCA2,Baseline
+MPCproject_0234_T,BRCA2,Baseline
+MPCproject_0234_T,NKX3-1,Baseline
+MPCproject_0234_T,NKX3-1,aCN = 0
+MPCproject_0254_T,AR,Baseline
+MPCproject_0254_T,MYC,Allelic amplification
+MPCproject_0254_T,MYC,Baseline
+MPCproject_0254_T,TP53,Baseline
+MPCproject_0254_T,TP53,aCN = 0
+MPCproject_0254_T,PTEN,aCN = 0
+MPCproject_0254_T,PTEN,Baseline
+MPCproject_0254_T,BRCA2,Baseline
+MPCproject_0254_T,BRCA2,Baseline
+MPCproject_0254_T,NKX3-1,Baseline
+MPCproject_0254_T,NKX3-1,aCN = 0
+MPCproject_0256_T,AR,Allelic amplification
+MPCproject_0256_T,MYC,Baseline
+MPCproject_0256_T,MYC,Baseline
+MPCproject_0256_T,TP53,Baseline
+MPCproject_0256_T,TP53,aCN = 0
+MPCproject_0256_T,PTEN,Baseline
+MPCproject_0256_T,PTEN,Baseline
+MPCproject_0256_T,BRCA2,Baseline
+MPCproject_0256_T,BRCA2,Baseline
+MPCproject_0256_T,NKX3-1,Baseline
+MPCproject_0256_T,NKX3-1,aCN = 0
+MPCproject_0319_T,AR,Baseline
+MPCproject_0319_T,MYC,Baseline
+MPCproject_0319_T,MYC,Baseline
+MPCproject_0319_T,TP53,Baseline
+MPCproject_0319_T,TP53,aCN = 0
+MPCproject_0319_T,PTEN,aCN = 0
+MPCproject_0319_T,PTEN,Baseline
+MPCproject_0319_T,BRCA2,aCN = 0
+MPCproject_0319_T,BRCA2,Baseline
+MPCproject_0319_T,NKX3-1,Baseline
+MPCproject_0319_T,NKX3-1,Baseline
+MPCproject_0336_T,AR,Allelic amplification
+MPCproject_0336_T,MYC,Allelic amplification
+MPCproject_0336_T,MYC,Allelic amplification
+MPCproject_0336_T,TP53,Allelic amplification
+MPCproject_0336_T,TP53,Allelic amplification
+MPCproject_0336_T,BRCA2,Allelic amplification
+MPCproject_0336_T,BRCA2,Allelic amplification
+MPCproject_0336_T,NKX3-1,Allelic amplification
+MPCproject_0336_T,NKX3-1,aCN = 0
+MPCproject_0357_T,AR,Allelic amplification
+MPCproject_0357_T,MYC,Allelic amplification
+MPCproject_0357_T,MYC,Allelic amplification
+MPCproject_0357_T,PTEN,Allelic amplification
+MPCproject_0357_T,PTEN,Baseline
+MPCproject_0357_T,NKX3-1,Allelic amplification
+MPCproject_0357_T,NKX3-1,Allelic amplification
+MPCproject_0035_T,AR,Baseline
+MPCproject_0035_T,MYC,Baseline
+MPCproject_0035_T,MYC,Baseline
+MPCproject_0035_T,TP53,Baseline
+MPCproject_0035_T,TP53,Baseline
+MPCproject_0035_T,PTEN,Baseline
+MPCproject_0035_T,PTEN,aCN = 0
+MPCproject_0035_T,BRCA2,Baseline
+MPCproject_0035_T,BRCA2,Baseline
+MPCproject_0035_T,NKX3-1,Baseline
+MPCproject_0035_T,NKX3-1,Baseline
+MPCproject_0364_T,AR,Baseline
+MPCproject_0364_T,MYC,Allelic amplification
+MPCproject_0364_T,MYC,Baseline
+MPCproject_0364_T,TP53,Baseline
+MPCproject_0364_T,TP53,Baseline
+MPCproject_0364_T,PTEN,Baseline
+MPCproject_0364_T,PTEN,Baseline
+MPCproject_0364_T,BRCA2,Baseline
+MPCproject_0364_T,BRCA2,Baseline
+MPCproject_0364_T,NKX3-1,Baseline
+MPCproject_0364_T,NKX3-1,Baseline
+MPCproject_0036_T,AR,Baseline
+MPCproject_0036_T,MYC,Allelic amplification
+MPCproject_0036_T,MYC,Baseline
+MPCproject_0036_T,TP53,Baseline
+MPCproject_0036_T,TP53,Baseline
+MPCproject_0036_T,PTEN,Baseline
+MPCproject_0036_T,PTEN,Baseline
+MPCproject_0036_T,BRCA2,Allelic deletion
+MPCproject_0036_T,BRCA2,aCN = 0
+MPCproject_0036_T,NKX3-1,Baseline
+MPCproject_0036_T,NKX3-1,Allelic deletion
+MPCproject_0381_T,AR,Allelic amplification
+MPCproject_0381_T,MYC,Baseline
+MPCproject_0381_T,MYC,Baseline
+MPCproject_0381_T,TP53,Baseline
+MPCproject_0381_T,TP53,Baseline
+MPCproject_0381_T,PTEN,Baseline
+MPCproject_0381_T,PTEN,Baseline
+MPCproject_0381_T,BRCA2,Baseline
+MPCproject_0381_T,BRCA2,Baseline
+MPCproject_0381_T,NKX3-1,Baseline
+MPCproject_0381_T,NKX3-1,aCN = 0
+MPCproject_0392_T,AR,Baseline
+MPCproject_0392_T,MYC,Allelic amplification
+MPCproject_0392_T,MYC,Allelic amplification
+MPCproject_0392_T,TP53,Baseline
+MPCproject_0392_T,TP53,aCN = 0
+MPCproject_0392_T,PTEN,Allelic amplification
+MPCproject_0392_T,PTEN,Baseline
+MPCproject_0392_T,BRCA2,Baseline
+MPCproject_0392_T,BRCA2,Baseline
+MPCproject_0392_T,NKX3-1,Baseline
+MPCproject_0392_T,NKX3-1,aCN = 0
+MPCproject_0399_T,AR,Allelic amplification
+MPCproject_0399_T,MYC,Baseline
+MPCproject_0399_T,MYC,Baseline
+MPCproject_0399_T,TP53,aCN = 0
+MPCproject_0399_T,TP53,Baseline
+MPCproject_0399_T,PTEN,Baseline
+MPCproject_0399_T,PTEN,aCN = 0
+MPCproject_0399_T,BRCA2,Baseline
+MPCproject_0399_T,BRCA2,Baseline
+MPCproject_0399_T,NKX3-1,aCN = 0
+MPCproject_0399_T,NKX3-1,Baseline
+MPCproject_0410_T,AR,Allelic amplification
+MPCproject_0410_T,MYC,Allelic amplification
+MPCproject_0410_T,MYC,Baseline
+MPCproject_0410_T,TP53,Baseline
+MPCproject_0410_T,TP53,Baseline
+MPCproject_0410_T,BRCA2,Baseline
+MPCproject_0410_T,BRCA2,Baseline
+MPCproject_0410_T,NKX3-1,Allelic amplification
+MPCproject_0410_T,NKX3-1,Baseline
+MPCproject_0041_T,AR,Baseline
+MPCproject_0041_T,MYC,Baseline
+MPCproject_0041_T,MYC,Baseline
+MPCproject_0041_T,TP53,Baseline
+MPCproject_0041_T,TP53,aCN = 0
+MPCproject_0041_T,BRCA2,Baseline
+MPCproject_0041_T,BRCA2,Baseline
+MPCproject_0041_T,NKX3-1,Baseline
+MPCproject_0041_T,NKX3-1,aCN = 0
+MPCproject_0439_T,AR,Baseline
+MPCproject_0439_T,MYC,Baseline
+MPCproject_0439_T,MYC,Baseline
+MPCproject_0439_T,TP53,Baseline
+MPCproject_0439_T,TP53,Baseline
+MPCproject_0439_T,PTEN,Baseline
+MPCproject_0439_T,PTEN,Baseline
+MPCproject_0439_T,BRCA2,Baseline
+MPCproject_0439_T,BRCA2,aCN = 0
+MPCproject_0439_T,NKX3-1,Baseline
+MPCproject_0439_T,NKX3-1,aCN = 0
+MPCproject_0443_T,AR,Allelic amplification
+MPCproject_0443_T,MYC,Allelic amplification
+MPCproject_0443_T,MYC,Baseline
+MPCproject_0443_T,TP53,aCN = 0
+MPCproject_0443_T,TP53,aCN = 0
+MPCproject_0443_T,PTEN,Baseline
+MPCproject_0443_T,PTEN,Baseline
+MPCproject_0443_T,BRCA2,Baseline
+MPCproject_0443_T,BRCA2,Baseline
+MPCproject_0443_T,NKX3-1,aCN = 0
+MPCproject_0443_T,NKX3-1,Baseline
+MPCproject_0445_T,AR,Baseline
+MPCproject_0445_T,MYC,Allelic amplification
+MPCproject_0445_T,MYC,Baseline
+MPCproject_0445_T,TP53,Baseline
+MPCproject_0445_T,TP53,aCN = 0
+MPCproject_0445_T,PTEN,Baseline
+MPCproject_0445_T,PTEN,Baseline
+MPCproject_0445_T,BRCA2,Baseline
+MPCproject_0445_T,BRCA2,Baseline
+MPCproject_0445_T,NKX3-1,Baseline
+MPCproject_0445_T,NKX3-1,Baseline
+MPCproject_0488_T,AR,Baseline
+MPCproject_0488_T,MYC,Allelic amplification
+MPCproject_0488_T,MYC,Allelic amplification
+MPCproject_0488_T,TP53,Baseline
+MPCproject_0488_T,TP53,Baseline
+MPCproject_0488_T,PTEN,Baseline
+MPCproject_0488_T,PTEN,Baseline
+MPCproject_0488_T,BRCA2,aCN = 0
+MPCproject_0488_T,NKX3-1,Baseline
+MPCproject_0488_T,NKX3-1,aCN = 0
+MPCproject_0048_T,AR,Allelic amplification
+MPCproject_0048_T,MYC,Allelic amplification
+MPCproject_0048_T,MYC,Baseline
+MPCproject_0048_T,TP53,Baseline
+MPCproject_0048_T,TP53,Baseline
+MPCproject_0048_T,BRCA2,Allelic amplification
+MPCproject_0048_T,BRCA2,Baseline
+MPCproject_0048_T,NKX3-1,Allelic amplification
+MPCproject_0048_T,NKX3-1,Baseline
+MPCproject_0495_T,AR,Baseline
+MPCproject_0495_T,MYC,Baseline
+MPCproject_0495_T,MYC,Baseline
+MPCproject_0495_T,TP53,Baseline
+MPCproject_0495_T,TP53,Baseline
+MPCproject_0495_T,BRCA2,Baseline
+MPCproject_0495_T,BRCA2,Baseline
+MPCproject_0495_T,NKX3-1,Baseline
+MPCproject_0495_T,NKX3-1,aCN = 0
+MPCproject_0501_T,AR,Baseline
+MPCproject_0501_T,TP53,Baseline
+MPCproject_0501_T,TP53,aCN = 0
+MPCproject_0501_T,PTEN,Baseline
+MPCproject_0501_T,PTEN,Baseline
+MPCproject_0501_T,BRCA2,Baseline
+MPCproject_0501_T,BRCA2,Baseline
+MPCproject_0501_T,NKX3-1,Baseline
+MPCproject_0501_T,NKX3-1,aCN = 0
+MPCproject_0524_T,AR,Allelic amplification
+MPCproject_0524_T,MYC,Allelic amplification
+MPCproject_0524_T,MYC,Baseline
+MPCproject_0524_T,TP53,Baseline
+MPCproject_0524_T,TP53,aCN = 0
+MPCproject_0524_T,PTEN,Baseline
+MPCproject_0524_T,PTEN,aCN = 0
+MPCproject_0524_T,BRCA2,Baseline
+MPCproject_0524_T,BRCA2,Baseline
+MPCproject_0524_T,NKX3-1,Baseline
+MPCproject_0524_T,NKX3-1,aCN = 0
+MPCproject_0525_T,AR,Allelic amplification
+MPCproject_0525_T,MYC,Baseline
+MPCproject_0525_T,MYC,Baseline
+MPCproject_0525_T,TP53,Baseline
+MPCproject_0525_T,TP53,Baseline
+MPCproject_0525_T,PTEN,Baseline
+MPCproject_0525_T,PTEN,Baseline
+MPCproject_0525_T,BRCA2,Baseline
+MPCproject_0525_T,BRCA2,Baseline
+MPCproject_0525_T,NKX3-1,Baseline
+MPCproject_0525_T,NKX3-1,Baseline
+MPCproject_0557_T,AR,Baseline
+MPCproject_0557_T,MYC,Baseline
+MPCproject_0557_T,MYC,Baseline
+MPCproject_0557_T,TP53,Baseline
+MPCproject_0557_T,TP53,aCN = 0
+MPCproject_0557_T,PTEN,aCN = 0
+MPCproject_0557_T,PTEN,aCN = 0
+MPCproject_0557_T,BRCA2,Baseline
+MPCproject_0557_T,BRCA2,Baseline
+MPCproject_0557_T,NKX3-1,Baseline
+MPCproject_0557_T,NKX3-1,aCN = 0
+MPCproject_0575_T,AR,Allelic amplification
+MPCproject_0575_T,MYC,Baseline
+MPCproject_0575_T,MYC,Baseline
+MPCproject_0575_T,TP53,Baseline
+MPCproject_0575_T,TP53,Baseline
+MPCproject_0575_T,PTEN,Baseline
+MPCproject_0575_T,PTEN,aCN = 0
+MPCproject_0575_T,BRCA2,Baseline
+MPCproject_0575_T,BRCA2,Baseline
+MPCproject_0575_T,NKX3-1,Baseline
+MPCproject_0575_T,NKX3-1,aCN = 0
+MPCproject_0057_T,AR,Allelic amplification
+MPCproject_0057_T,MYC,Allelic amplification
+MPCproject_0057_T,MYC,Baseline
+MPCproject_0057_T,TP53,Baseline
+MPCproject_0057_T,TP53,Baseline
+MPCproject_0057_T,PTEN,Baseline
+MPCproject_0057_T,PTEN,Baseline
+MPCproject_0057_T,BRCA2,Baseline
+MPCproject_0057_T,BRCA2,Baseline
+MPCproject_0057_T,NKX3-1,Baseline
+MPCproject_0057_T,NKX3-1,aCN = 0
+MPCproject_0588_T,AR,Baseline
+MPCproject_0588_T,MYC,Allelic amplification
+MPCproject_0588_T,MYC,Baseline
+MPCproject_0588_T,TP53,aCN = 0
+MPCproject_0588_T,TP53,Baseline
+MPCproject_0588_T,PTEN,Baseline
+MPCproject_0588_T,PTEN,aCN = 0
+MPCproject_0588_T,BRCA2,Baseline
+MPCproject_0588_T,BRCA2,aCN = 0
+MPCproject_0588_T,NKX3-1,Baseline
+MPCproject_0588_T,NKX3-1,Baseline
+MPCproject_0608_T,AR,Baseline
+MPCproject_0608_T,MYC,Baseline
+MPCproject_0608_T,MYC,Baseline
+MPCproject_0608_T,TP53,Baseline
+MPCproject_0608_T,TP53,Baseline
+MPCproject_0608_T,PTEN,Baseline
+MPCproject_0608_T,PTEN,aCN = 0
+MPCproject_0608_T,BRCA2,Baseline
+MPCproject_0608_T,BRCA2,Baseline
+MPCproject_0608_T,NKX3-1,Baseline
+MPCproject_0608_T,NKX3-1,aCN = 0
+MPCproject_0639_T,AR,Baseline
+MPCproject_0639_T,MYC,Allelic amplification
+MPCproject_0639_T,MYC,Baseline
+MPCproject_0639_T,TP53,Baseline
+MPCproject_0639_T,TP53,aCN = 0
+MPCproject_0639_T,PTEN,Baseline
+MPCproject_0639_T,PTEN,aCN = 0
+MPCproject_0639_T,BRCA2,Baseline
+MPCproject_0639_T,BRCA2,aCN = 0
+MPCproject_0639_T,NKX3-1,Baseline
+MPCproject_0639_T,NKX3-1,Baseline
+MPCproject_0643_T,AR,Allelic amplification
+MPCproject_0643_T,MYC,Baseline
+MPCproject_0643_T,MYC,Baseline
+MPCproject_0643_T,TP53,aCN = 0
+MPCproject_0643_T,TP53,Baseline
+MPCproject_0643_T,PTEN,Baseline
+MPCproject_0643_T,PTEN,Baseline
+MPCproject_0643_T,BRCA2,Baseline
+MPCproject_0643_T,BRCA2,Baseline
+MPCproject_0643_T,NKX3-1,Baseline
+MPCproject_0643_T,NKX3-1,Baseline
+MPCproject_0653_T,AR,Baseline
+MPCproject_0653_T,MYC,Baseline
+MPCproject_0653_T,MYC,Baseline
+MPCproject_0653_T,TP53,Baseline
+MPCproject_0653_T,TP53,Baseline
+MPCproject_0653_T,PTEN,Baseline
+MPCproject_0653_T,PTEN,Baseline
+MPCproject_0653_T,BRCA2,Baseline
+MPCproject_0653_T,BRCA2,Baseline
+MPCproject_0653_T,NKX3-1,Baseline
+MPCproject_0653_T,NKX3-1,Baseline
+MPCproject_0672_T,AR,Allelic amplification
+MPCproject_0672_T,MYC,Baseline
+MPCproject_0672_T,MYC,Baseline
+MPCproject_0672_T,TP53,Baseline
+MPCproject_0672_T,TP53,aCN = 0
+MPCproject_0672_T,PTEN,Baseline
+MPCproject_0672_T,PTEN,Baseline
+MPCproject_0672_T,BRCA2,Baseline
+MPCproject_0672_T,BRCA2,Baseline
+MPCproject_0672_T,NKX3-1,Baseline
+MPCproject_0672_T,NKX3-1,Baseline
+MPCproject_0683_T,AR,Allelic amplification
+MPCproject_0683_T,MYC,Baseline
+MPCproject_0683_T,MYC,Baseline
+MPCproject_0683_T,TP53,Baseline
+MPCproject_0683_T,TP53,aCN = 0
+MPCproject_0683_T,PTEN,Baseline
+MPCproject_0683_T,PTEN,aCN = 0
+MPCproject_0683_T,NKX3-1,Baseline
+MPCproject_0683_T,NKX3-1,Baseline
+MPCproject_0130_T,AR,Allelic amplification
+MPCproject_0130_T,MYC,Allelic amplification
+MPCproject_0130_T,MYC,Baseline
+MPCproject_0130_T,TP53,Baseline
+MPCproject_0130_T,TP53,Baseline
+MPCproject_0130_T,PTEN,Baseline
+MPCproject_0130_T,PTEN,Baseline
+MPCproject_0130_T,BRCA2,Baseline
+MPCproject_0130_T,BRCA2,Baseline
+MPCproject_0130_T,NKX3-1,Allelic amplification
+MPCproject_0130_T,NKX3-1,Baseline
+MPCproject_0009_B,AR,Baseline
+MPCproject_0009_B,MYC,Allelic amplification
+MPCproject_0009_B,MYC,Baseline
+MPCproject_0009_B,TP53,Baseline
+MPCproject_0009_B,TP53,aCN = 0
+MPCproject_0009_B,PTEN,Baseline
+MPCproject_0009_B,PTEN,Baseline
+MPCproject_0009_B,BRCA2,Baseline
+MPCproject_0009_B,BRCA2,Baseline
+MPCproject_0009_B,NKX3-1,Baseline
+MPCproject_0009_B,NKX3-1,aCN = 0
+MPCproject_0029_B,AR,Baseline
+MPCproject_0029_B,MYC,Allelic amplification
+MPCproject_0029_B,MYC,Baseline
+MPCproject_0029_B,TP53,Baseline
+MPCproject_0029_B,TP53,aCN = 0
+MPCproject_0029_B,BRCA2,aCN = 0
+MPCproject_0029_B,BRCA2,Baseline
+MPCproject_0029_B,NKX3-1,Baseline
+MPCproject_0029_B,NKX3-1,aCN = 0
+MPCproject_0030_B,AR,Allelic amplification
+MPCproject_0030_B,MYC,Baseline
+MPCproject_0030_B,MYC,Baseline
+MPCproject_0030_B,TP53,Baseline
+MPCproject_0030_B,TP53,aCN = 0
+MPCproject_0030_B,PTEN,Baseline
+MPCproject_0030_B,PTEN,aCN = 0
+MPCproject_0030_B,BRCA2,Baseline
+MPCproject_0030_B,BRCA2,Baseline
+MPCproject_0030_B,NKX3-1,Baseline
+MPCproject_0030_B,NKX3-1,aCN = 0
+MPCproject_0083_B,AR,Baseline
+MPCproject_0083_B,MYC,Baseline
+MPCproject_0083_B,MYC,Baseline
+MPCproject_0083_B,TP53,Baseline
+MPCproject_0083_B,TP53,Baseline
+MPCproject_0083_B,PTEN,Baseline
+MPCproject_0083_B,PTEN,Baseline
+MPCproject_0083_B,BRCA2,Baseline
+MPCproject_0083_B,BRCA2,Baseline
+MPCproject_0083_B,NKX3-1,Baseline
+MPCproject_0083_B,NKX3-1,Baseline
+MPCproject_0093_B,AR,Allelic amplification
+MPCproject_0093_B,MYC,Baseline
+MPCproject_0093_B,MYC,Baseline
+MPCproject_0093_B,TP53,Baseline
+MPCproject_0093_B,TP53,aCN = 0
+MPCproject_0093_B,PTEN,Baseline
+MPCproject_0093_B,PTEN,aCN = 0
+MPCproject_0093_B,BRCA2,Baseline
+MPCproject_0093_B,BRCA2,aCN = 0
+MPCproject_0093_B,NKX3-1,Baseline
+MPCproject_0093_B,NKX3-1,aCN = 0
+MPCproject_0172_B,AR,Allelic amplification
+MPCproject_0172_B,MYC,Baseline
+MPCproject_0172_B,MYC,Baseline
+MPCproject_0172_B,PTEN,Allelic amplification
+MPCproject_0172_B,PTEN,Baseline
+MPCproject_0172_B,BRCA2,aCN = 0
+MPCproject_0172_B,BRCA2,Baseline
+MPCproject_0172_B,NKX3-1,Baseline
+MPCproject_0172_B,NKX3-1,Baseline
+MPCproject_0203_B,AR,Baseline
+MPCproject_0203_B,MYC,Baseline
+MPCproject_0203_B,MYC,Baseline
+MPCproject_0203_B,TP53,aCN = 0
+MPCproject_0203_B,TP53,Baseline
+MPCproject_0203_B,PTEN,Baseline
+MPCproject_0203_B,PTEN,Baseline
+MPCproject_0203_B,BRCA2,aCN = 0
+MPCproject_0203_B,BRCA2,Baseline
+MPCproject_0203_B,NKX3-1,Baseline
+MPCproject_0203_B,NKX3-1,Baseline
+MPCproject_0207_B,AR,Baseline
+MPCproject_0207_B,MYC,Allelic amplification
+MPCproject_0207_B,MYC,Baseline
+MPCproject_0207_B,TP53,Baseline
+MPCproject_0207_B,TP53,aCN = 0
+MPCproject_0207_B,PTEN,Baseline
+MPCproject_0207_B,PTEN,Baseline
+MPCproject_0207_B,BRCA2,aCN = 0
+MPCproject_0207_B,BRCA2,Baseline
+MPCproject_0207_B,NKX3-1,Baseline
+MPCproject_0207_B,NKX3-1,aCN = 0
+MPCproject_0213_B,AR,Allelic amplification
+MPCproject_0213_B,MYC,Allelic amplification
+MPCproject_0213_B,MYC,Baseline
+MPCproject_0213_B,PTEN,Baseline
+MPCproject_0213_B,PTEN,aCN = 0
+MPCproject_0213_B,BRCA2,Baseline
+MPCproject_0213_B,BRCA2,Baseline
+MPCproject_0213_B,NKX3-1,Baseline
+MPCproject_0213_B,NKX3-1,aCN = 0
+MPCproject_0294_B,AR,Baseline
+MPCproject_0294_B,MYC,Baseline
+MPCproject_0294_B,MYC,Baseline
+MPCproject_0294_B,TP53,Baseline
+MPCproject_0294_B,TP53,Baseline
+MPCproject_0294_B,PTEN,Baseline
+MPCproject_0294_B,PTEN,Baseline
+MPCproject_0294_B,BRCA2,Baseline
+MPCproject_0294_B,BRCA2,Baseline
+MPCproject_0294_B,NKX3-1,Baseline
+MPCproject_0294_B,NKX3-1,Baseline
+MPCproject_0296_B,AR,Baseline
+MPCproject_0296_B,MYC,Allelic amplification
+MPCproject_0296_B,MYC,Allelic amplification
+MPCproject_0296_B,TP53,Allelic amplification
+MPCproject_0296_B,TP53,Allelic amplification
+MPCproject_0296_B,PTEN,Allelic amplification
+MPCproject_0296_B,PTEN,Allelic amplification
+MPCproject_0296_B,NKX3-1,Allelic amplification
+MPCproject_0296_B,NKX3-1,Allelic amplification
+MPCproject_0002_B,AR,Allelic amplification
+MPCproject_0002_B,MYC,Baseline
+MPCproject_0002_B,MYC,Allelic amplification
+MPCproject_0002_B,BRCA2,Baseline
+MPCproject_0002_B,BRCA2,Baseline
+MPCproject_0328_B,AR,Baseline
+MPCproject_0328_B,MYC,Allelic amplification
+MPCproject_0328_B,MYC,Baseline
+MPCproject_0328_B,TP53,Baseline
+MPCproject_0328_B,TP53,aCN = 0
+MPCproject_0328_B,PTEN,Allelic amplification
+MPCproject_0328_B,PTEN,Baseline
+MPCproject_0328_B,BRCA2,aCN = 0
+MPCproject_0328_B,BRCA2,Baseline
+MPCproject_0328_B,NKX3-1,Baseline
+MPCproject_0328_B,NKX3-1,aCN = 0
+MPCproject_0411_B,AR,Allelic amplification
+MPCproject_0411_B,MYC,Allelic amplification
+MPCproject_0411_B,MYC,Baseline
+MPCproject_0411_B,TP53,Baseline
+MPCproject_0411_B,TP53,aCN = 0
+MPCproject_0411_B,PTEN,Baseline
+MPCproject_0411_B,PTEN,Baseline
+MPCproject_0411_B,BRCA2,Allelic amplification
+MPCproject_0411_B,BRCA2,Baseline
+MPCproject_0411_B,NKX3-1,Baseline
+MPCproject_0411_B,NKX3-1,aCN = 0
+MPCproject_0413_B,AR,Allelic amplification
+MPCproject_0413_B,MYC,Baseline
+MPCproject_0413_B,MYC,Baseline
+MPCproject_0413_B,TP53,Baseline
+MPCproject_0413_B,TP53,Baseline
+MPCproject_0413_B,PTEN,Baseline
+MPCproject_0413_B,PTEN,Baseline
+MPCproject_0413_B,BRCA2,Baseline
+MPCproject_0413_B,BRCA2,Baseline
+MPCproject_0413_B,NKX3-1,Baseline
+MPCproject_0413_B,NKX3-1,Baseline
+MPCproject_0420_B,AR,Baseline
+MPCproject_0420_B,MYC,Allelic amplification
+MPCproject_0420_B,MYC,aCN = 0
+MPCproject_0420_B,PTEN,aCN = 0
+MPCproject_0420_B,PTEN,Baseline
+MPCproject_0420_B,BRCA2,Baseline
+MPCproject_0420_B,BRCA2,aCN = 0
+MPCproject_0495_B,AR,Allelic amplification
+MPCproject_0495_B,MYC,Allelic amplification
+MPCproject_0495_B,MYC,Baseline
+MPCproject_0495_B,TP53,Allelic amplification
+MPCproject_0495_B,TP53,Baseline
+MPCproject_0495_B,PTEN,aCN = 0
+MPCproject_0495_B,PTEN,aCN = 0
+MPCproject_0495_B,BRCA2,Baseline
+MPCproject_0495_B,BRCA2,Baseline
+MPCproject_0503_B,AR,Allelic amplification
+MPCproject_0503_B,MYC,Allelic amplification
+MPCproject_0503_B,MYC,Baseline
+MPCproject_0503_B,TP53,aCN = 0
+MPCproject_0503_B,TP53,Baseline
+MPCproject_0503_B,PTEN,Baseline
+MPCproject_0503_B,PTEN,Baseline
+MPCproject_0503_B,BRCA2,Baseline
+MPCproject_0503_B,BRCA2,aCN = 0
+MPCproject_0503_B,NKX3-1,aCN = 0
+MPCproject_0503_B,NKX3-1,Baseline
+MPCproject_0521_B,AR,Baseline
+MPCproject_0521_B,MYC,Allelic amplification
+MPCproject_0521_B,MYC,Baseline
+MPCproject_0521_B,PTEN,Baseline
+MPCproject_0521_B,PTEN,Baseline
+MPCproject_0521_B,BRCA2,Baseline
+MPCproject_0521_B,BRCA2,Baseline
+MPCproject_0521_B,NKX3-1,aCN = 0
+MPCproject_0521_B,NKX3-1,Baseline
+MPCproject_0161_T,PTEN,aCN = 0
+MPCproject_0041_T,PTEN,aCN = 0
+MPCproject_0495_T,PTEN,aCN = 0
+MPCproject_0161_T,PTEN,aCN = 0
+MPCproject_0041_T,PTEN,Baseline
+MPCproject_0495_T,PTEN,aCN = 0
+MPCproject_0186_T,MYC,Baseline
+MPCproject_0056_T,BRCA2,aCN = 0
+MPCproject_0488_T,BRCA2,aCN = 0
+MPCproject_0142_T,BRCA2,Allelic amplification
+MPCproject_0213_T,NKX3-1,Allelic amplification
+MPCproject_0336_T,PTEN,Allelic amplification
+MPCproject_0357_T,TP53,Allelic amplification
+MPCproject_0357_T,BRCA2,Allelic amplification
+MPCproject_0410_T,PTEN,Allelic amplification
+MPCproject_0048_T,PTEN,Allelic amplification
+MPCproject_0501_T,MYC,Allelic amplification
+MPCproject_0683_T,BRCA2,Allelic amplification
+MPCproject_0029_B,PTEN,Allelic amplification
+MPCproject_0172_B,TP53,Allelic amplification
+MPCproject_0213_B,TP53,Allelic amplification
+MPCproject_0296_B,BRCA2,Allelic amplification
+MPCproject_0002_B,TP53,Allelic amplification
+MPCproject_0002_B,PTEN,Allelic amplification
+MPCproject_0002_B,NKX3-1,Allelic amplification
+MPCproject_0420_B,TP53,Allelic amplification
+MPCproject_0420_B,NKX3-1,Allelic amplification
+MPCproject_0495_B,NKX3-1,Allelic amplification
+MPCproject_0521_B,TP53,Allelic amplification
+MPCproject_0142_T,BRCA2,aCN = 0
+MPCproject_0213_T,NKX3-1,aCN = 0
+MPCproject_0336_T,PTEN,aCN = 0
+MPCproject_0357_T,TP53,aCN = 0
+MPCproject_0357_T,BRCA2,aCN = 0
+MPCproject_0410_T,PTEN,aCN = 0
+MPCproject_0048_T,PTEN,aCN = 0
+MPCproject_0501_T,MYC,aCN = 0
+MPCproject_0683_T,BRCA2,aCN = 0
+MPCproject_0029_B,PTEN,aCN = 0
+MPCproject_0172_B,TP53,aCN = 0
+MPCproject_0213_B,TP53,aCN = 0
+MPCproject_0296_B,BRCA2,aCN = 0
+MPCproject_0002_B,TP53,aCN = 0
+MPCproject_0002_B,PTEN,aCN = 0
+MPCproject_0002_B,NKX3-1,aCN = 0
+MPCproject_0420_B,TP53,aCN = 0
+MPCproject_0420_B,NKX3-1,aCN = 0
+MPCproject_0495_B,NKX3-1,aCN = 0
+MPCproject_0521_B,TP53,aCN = 0
+MPCproject_0028_T,SPOP,Missense
+MPCproject_0031_T,TP53,Frameshift indel
+MPCproject_0056_T,TP53,Missense
+MPCproject_0093_T,KMT2D,Missense
+MPCproject_0093_T,TP53,Missense
+MPCproject_0100_T,TP53,Missense
+MPCproject_0120_T,SPOP,Missense
+MPCproject_0149_T,KMT2D,Missense
+MPCproject_0149_T,TP53,Missense
+MPCproject_0177_T,TP53,Splice site
+MPCproject_0181_T,TP53,Nonsense
+MPCproject_0182_T,KMT2D,Missense
+MPCproject_0182_T,TP53,Frameshift indel
+MPCproject_0190_T,TP53,Missense
+MPCproject_0193_T,SPOP,Splice site
+MPCproject_0213_T,TP53,Splice site
+MPCproject_0215_T,SPOP,Missense
+MPCproject_0225_T,TP53,Missense
+MPCproject_0234_T,KMT2D,Missense
+MPCproject_0254_T,TP53,Frameshift indel
+MPCproject_0256_T,TP53,Missense
+MPCproject_0319_T,TP53,Missense
+MPCproject_0336_T,SPOP,Missense
+MPCproject_0357_T,KMT2D,Frameshift indel
+MPCproject_0035_T,SPOP,Missense
+MPCproject_0035_T,PTEN,Frameshift indel
+MPCproject_0364_T,TP53,Missense
+MPCproject_0399_T,TP53,Missense
+MPCproject_0399_T,SPOP,Missense
+MPCproject_0399_T,PTEN,Splice site
+MPCproject_0041_T,KMT2D,Missense
+MPCproject_0041_T,TP53,Nonsense
+MPCproject_0445_T,CDK12,Missense
+MPCproject_0488_T,SPOP,Missense
+MPCproject_0524_T,TP53,Missense
+MPCproject_0524_T,PTEN,Frameshift indel
+MPCproject_0557_T,TP53,Missense
+MPCproject_0575_T,KMT2D,Missense
+MPCproject_0057_T,SPOP,Missense
+MPCproject_0588_T,CDK12,Nonsense
+MPCproject_0588_T,CDK12,Missense
+MPCproject_0009_B,TP53,Missense
+MPCproject_0030_B,TP53,Missense
+MPCproject_0093_B,KMT2D,Missense
+MPCproject_0093_B,TP53,Missense
+MPCproject_0172_B,SPOP,Missense
+MPCproject_0213_B,TP53,Splice site
+MPCproject_0002_B,TP53,Missense
+MPCproject_0328_B,TP53,Missense
+MPCproject_0411_B,KMT2D,Missense
+MPCproject_0413_B,TP53,Missense
+MPCproject_0420_B,TP53,Frameshift indel
+MPCproject_0503_B,TP53,Missense
+MPCproject_0521_B,TP53,Missense
+MPCproject_0013_T,Purity,0.37
+MPCproject_0022_T,Purity,0.54
+MPCproject_0028_T,Purity,0.35
+MPCproject_0031_T,Purity,0.24
+MPCproject_0054_T,Purity,0.4
+MPCproject_0056_T,Purity,0.4
+MPCproject_0062_T,Purity,0.42
+MPCproject_0085_T,Purity,0.17
+MPCproject_0087_T,Purity,0.28
+MPCproject_0093_T,Purity,0.62
+MPCproject_0100_T,Purity,0.37
+MPCproject_0120_T,Purity,0.71
+MPCproject_0123_T,Purity,0.36
+MPCproject_0125_T,Purity,0.2
+MPCproject_0136_T,Purity,0.3
+MPCproject_0142_T,Purity,0.51
+MPCproject_0149_T,Purity,0.34
+MPCproject_0161_T,Purity,0.56
+MPCproject_0177_T,Purity,0.29
+MPCproject_0181_T,Purity,0.55
+MPCproject_0182_T,Purity,0.75
+MPCproject_0186_T,Purity,0.31
+MPCproject_0187_T,Purity,0.34
+MPCproject_0190_T,Purity,0.6
+MPCproject_0193_T,Purity,0.56
+MPCproject_0212_T,Purity,0.32
+MPCproject_0213_T,Purity,0.56
+MPCproject_0215_T,Purity,0.75
+MPCproject_0225_T,Purity,0.34
+MPCproject_0234_T,Purity,0.42
+MPCproject_0254_T,Purity,0.37
+MPCproject_0256_T,Purity,0.78
+MPCproject_0319_T,Purity,0.26
+MPCproject_0336_T,Purity,0.57
+MPCproject_0357_T,Purity,0.29
+MPCproject_0035_T,Purity,0.63
+MPCproject_0364_T,Purity,0.33
+MPCproject_0036_T,Purity,0.57
+MPCproject_0381_T,Purity,0.25
+MPCproject_0392_T,Purity,0.45
+MPCproject_0399_T,Purity,0.52
+MPCproject_0410_T,Purity,0.66
+MPCproject_0041_T,Purity,0.53
+MPCproject_0439_T,Purity,0.58
+MPCproject_0443_T,Purity,0.3
+MPCproject_0445_T,Purity,0.3
+MPCproject_0488_T,Purity,0.2
+MPCproject_0048_T,Purity,0.2
+MPCproject_0495_T,Purity,0.5
+MPCproject_0501_T,Purity,0.34
+MPCproject_0524_T,Purity,0.5
+MPCproject_0525_T,Purity,0.2
+MPCproject_0557_T,Purity,0.51
+MPCproject_0575_T,Purity,0.48
+MPCproject_0057_T,Purity,0.24
+MPCproject_0588_T,Purity,0.73
+MPCproject_0608_T,Purity,0.43
+MPCproject_0639_T,Purity,0.24
+MPCproject_0643_T,Purity,0.2
+MPCproject_0653_T,Purity,0.33
+MPCproject_0672_T,Purity,0.5
+MPCproject_0683_T,Purity,0.25
+MPCproject_0130_T,Purity,0.2
+MPCproject_0009_B,Purity,0.62
+MPCproject_0029_B,Purity,0.25
+MPCproject_0030_B,Purity,0.28
+MPCproject_0083_B,Purity,0.28
+MPCproject_0093_B,Purity,0.2
+MPCproject_0172_B,Purity,0.29
+MPCproject_0203_B,Purity,0.19
+MPCproject_0207_B,Purity,0.24
+MPCproject_0213_B,Purity,0.24
+MPCproject_0294_B,Purity,0.28
+MPCproject_0296_B,Purity,0.31
+MPCproject_0002_B,Purity,0.36
+MPCproject_0328_B,Purity,0.12
+MPCproject_0411_B,Purity,0.47
+MPCproject_0413_B,Purity,0.18
+MPCproject_0420_B,Purity,0.4
+MPCproject_0495_B,Purity,0.45
+MPCproject_0503_B,Purity,0.2
+MPCproject_0521_B,Purity,0.24
+MPCproject_0031_T,Gleason,9
+MPCproject_0213_T,Gleason,9
+MPCproject_0364_T,Gleason,7
+MPCproject_0182_T,Gleason,8
+MPCproject_0149_T,Gleason,7
+MPCproject_0557_T,Gleason,9
+MPCproject_0399_T,Gleason,8
+MPCproject_0041_T,Gleason,9
+MPCproject_0256_T,Gleason,10
+MPCproject_0093_T,Gleason,9
+MPCproject_0254_T,Gleason,9
+MPCproject_0225_T,Gleason,9
+MPCproject_0319_T,Gleason,7
+MPCproject_0056_T,Gleason,8
+MPCproject_0181_T,Gleason,7
+MPCproject_0190_T,Gleason,9
+MPCproject_0524_T,Gleason,8
+MPCproject_0100_T,Gleason,9
+MPCproject_0177_T,Gleason,10
+MPCproject_0035_T,Gleason,9
+MPCproject_0215_T,Gleason,8
+MPCproject_0193_T,Gleason,10
+MPCproject_0057_T,Gleason,8
+MPCproject_0028_T,Gleason,7
+MPCproject_0120_T,Gleason,7
+MPCproject_0336_T,Gleason,7
+MPCproject_0488_T,Gleason,9
+MPCproject_0234_T,Gleason,8
+MPCproject_0575_T,Gleason,8
+MPCproject_0357_T,Gleason,9
+MPCproject_0443_T,Gleason,8
+MPCproject_0608_T,Gleason,7
+MPCproject_0588_T,Gleason,9
+MPCproject_0445_T,Gleason,9
+MPCproject_0054_T,Gleason,7
+MPCproject_0013_T,Gleason,9
+MPCproject_0022_T,Gleason,9
+MPCproject_0062_T,Gleason,7
+MPCproject_0085_T,Gleason,7
+MPCproject_0087_T,Gleason,9
+MPCproject_0123_T,Gleason,7
+MPCproject_0125_T,Gleason,7
+MPCproject_0136_T,Gleason,7
+MPCproject_0142_T,Gleason,8
+MPCproject_0161_T,Gleason,9
+MPCproject_0186_T,Gleason,7
+MPCproject_0187_T,Gleason,10
+MPCproject_0212_T,Gleason,6
+MPCproject_0036_T,Gleason,9
+MPCproject_0381_T,Gleason,7
+MPCproject_0392_T,Gleason,7
+MPCproject_0410_T,Gleason,9
+MPCproject_0439_T,Gleason,8
+MPCproject_0048_T,Gleason,8
+MPCproject_0495_T,Gleason,7
+MPCproject_0501_T,Gleason,8
+MPCproject_0525_T,Gleason,9
+MPCproject_0639_T,Gleason,9
+MPCproject_0643_T,Gleason,9
+MPCproject_0653_T,Gleason,7
+MPCproject_0672_T,Gleason,9
+MPCproject_0683_T,Gleason,9
+MPCproject_0130_T,Gleason,9
+MPCproject_0213_B,Gleason,9
+MPCproject_0030_B,Gleason,8
+MPCproject_0420_B,Gleason,7
+MPCproject_0009_B,Gleason,NR
+MPCproject_0093_B,Gleason,9
+MPCproject_0328_B,Gleason,NR
+MPCproject_0413_B,Gleason,NR
+MPCproject_0521_B,Gleason,9
+MPCproject_0503_B,Gleason,8
+MPCproject_0002_B,Gleason,10
+MPCproject_0172_B,Gleason,NR
+MPCproject_0411_B,Gleason,7
+MPCproject_0029_B,Gleason,8
+MPCproject_0083_B,Gleason,6
+MPCproject_0203_B,Gleason,9
+MPCproject_0207_B,Gleason,9
+MPCproject_0294_B,Gleason,9
+MPCproject_0296_B,Gleason,8
+MPCproject_0495_B,Gleason,7
+MPCproject_0031_T,Diagnosis,Localized
+MPCproject_0213_T,Diagnosis,Metastatic
+MPCproject_0364_T,Diagnosis,Localized
+MPCproject_0182_T,Diagnosis,Metastatic
+MPCproject_0149_T,Diagnosis,Localized
+MPCproject_0557_T,Diagnosis,Metastatic
+MPCproject_0399_T,Diagnosis,Localized
+MPCproject_0041_T,Diagnosis,Metastatic
+MPCproject_0256_T,Diagnosis,Metastatic
+MPCproject_0093_T,Diagnosis,Metastatic
+MPCproject_0254_T,Diagnosis,Localized
+MPCproject_0225_T,Diagnosis,Metastatic
+MPCproject_0319_T,Diagnosis,Metastatic
+MPCproject_0056_T,Diagnosis,Metastatic
+MPCproject_0190_T,Diagnosis,Metastatic
+MPCproject_0524_T,Diagnosis,Metastatic
+MPCproject_0100_T,Diagnosis,Localized
+MPCproject_0177_T,Diagnosis,Localized
+MPCproject_0035_T,Diagnosis,Localized
+MPCproject_0215_T,Diagnosis,Metastatic
+MPCproject_0193_T,Diagnosis,Metastatic
+MPCproject_0057_T,Diagnosis,Localized
+MPCproject_0028_T,Diagnosis,Localized
+MPCproject_0120_T,Diagnosis,Metastatic
+MPCproject_0336_T,Diagnosis,Localized
+MPCproject_0488_T,Diagnosis,Metastatic
+MPCproject_0234_T,Diagnosis,Localized
+MPCproject_0575_T,Diagnosis,Localized
+MPCproject_0357_T,Diagnosis,Localized
+MPCproject_0443_T,Diagnosis,Localized
+MPCproject_0608_T,Diagnosis,Metastatic
+MPCproject_0588_T,Diagnosis,Localized
+MPCproject_0445_T,Diagnosis,Localized
+MPCproject_0054_T,Diagnosis,Metastatic
+MPCproject_0013_T,Diagnosis,Localized
+MPCproject_0022_T,Diagnosis,Localized
+MPCproject_0062_T,Diagnosis,Localized
+MPCproject_0085_T,Diagnosis,Localized
+MPCproject_0087_T,Diagnosis,Localized
+MPCproject_0123_T,Diagnosis,Localized
+MPCproject_0125_T,Diagnosis,Localized
+MPCproject_0136_T,Diagnosis,Localized
+MPCproject_0142_T,Diagnosis,Localized
+MPCproject_0161_T,Diagnosis,Localized
+MPCproject_0186_T,Diagnosis,Localized
+MPCproject_0187_T,Diagnosis,Metastatic
+MPCproject_0212_T,Diagnosis,Localized
+MPCproject_0036_T,Diagnosis,Metastatic
+MPCproject_0381_T,Diagnosis,Localized
+MPCproject_0392_T,Diagnosis,Localized
+MPCproject_0410_T,Diagnosis,Metastatic
+MPCproject_0439_T,Diagnosis,Localized
+MPCproject_0048_T,Diagnosis,Localized
+MPCproject_0495_T,Diagnosis,Metastatic
+MPCproject_0501_T,Diagnosis,Metastatic
+MPCproject_0525_T,Diagnosis,Localized
+MPCproject_0639_T,Diagnosis,Metastatic
+MPCproject_0643_T,Diagnosis,Localized
+MPCproject_0653_T,Diagnosis,Localized
+MPCproject_0672_T,Diagnosis,Metastatic
+MPCproject_0683_T,Diagnosis,Localized
+MPCproject_0130_T,Diagnosis,Localized
+MPCproject_0213_B,Diagnosis,Metastatic
+MPCproject_0030_B,Diagnosis,Metastatic
+MPCproject_0420_B,Diagnosis,Localized
+MPCproject_0009_B,Diagnosis,Localized
+MPCproject_0093_B,Diagnosis,Metastatic
+MPCproject_0328_B,Diagnosis,Metastatic
+MPCproject_0413_B,Diagnosis,Localized
+MPCproject_0521_B,Diagnosis,Localized
+MPCproject_0503_B,Diagnosis,Metastatic
+MPCproject_0002_B,Diagnosis,Metastatic
+MPCproject_0172_B,Diagnosis,Metastatic
+MPCproject_0411_B,Diagnosis,Localized
+MPCproject_0029_B,Diagnosis,Localized
+MPCproject_0083_B,Diagnosis,Localized
+MPCproject_0203_B,Diagnosis,Localized
+MPCproject_0207_B,Diagnosis,Metastatic
+MPCproject_0294_B,Diagnosis,Localized
+MPCproject_0296_B,Diagnosis,Metastatic
+MPCproject_0495_B,Diagnosis,Metastatic
