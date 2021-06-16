@@ -6,7 +6,9 @@ To protect the privacy of our patient partners, potentially identifying informat
 
 ## Creating the figures
 
-The best way to rerun the code used to make the figures is to use a [virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). The easiest way to do this is using `conda` (install [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)).
+For an installation-free way to generate the figures used in this paper, you can use a [Google Colab Notebook](https://colab.research.google.com/drive/1SqX5o3BogoNTp-N7MIOQPCq5rohr3T67?usp=sharing).
+
+To generate the figures on your own computer, the best way is to use a [virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). The easiest way to do this is using `conda` (install [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)).
 
 **Instructions**
 
@@ -24,7 +26,7 @@ The best way to rerun the code used to make the figures is to use a [virtual env
    ```
 4. There are then two options for running the code:
 
-   - Simply run `python generate_figures.py`, which will run all the code and save the figures.
+   - Simply run `python generate_figures.py`, which will run all the code and save the figures to the `figures` folder.
 
    - If you want a more interactive approach, you can run `mpcproject-figures.ipynb` using [Jupyter Notebook](https://jupyter.org/), which is installed by default along with `conda`. To do this, the virtual environment needs to be accessible to Jupyter as a kernel. Run the following lines of code, after which `mpcproject_kernel` will be available as a kernel to select with `Jupyter Notebook` or `Jupyter Lab`.
 
