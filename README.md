@@ -6,7 +6,7 @@ To protect the privacy of our patient partners, potentially identifying informat
 
 ## Creating the figures
 
-For an installation-free way to generate the figures used in this paper, you can use a [Google Colab Notebook](https://colab.research.google.com/drive/1SqX5o3BogoNTp-N7MIOQPCq5rohr3T67?usp=sharing).
+For an installation-free way to generate the figures used in this paper, you can use a [Google Colab Notebook](https://colab.research.google.com/drive/1nn1Uvudxhsaars_69Z3z5t_0JcUcso5S?usp=sharing).
 
 To generate the figures on your own computer, the best way is to use a [virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). The easiest way to do this is using `conda` (install [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)).
 
