@@ -290,3 +290,64 @@ class CopyNumber:
 
         ax.axvspan(start, end, color='grey', alpha=0.25)
         return ax
+    
+    def visualize_cnas(self, ax, total_cn_col):
+        '''Visualizes the total copy nummber in a nice summarized plot.
+        Does not correctly handle WGD samples, as it visualizes raw CN. Does not handle CN > 4.
+
+        ax: axis object to plot on
+        total_cn_col: column name of the total copy number, used to shade
+        color_dict: mapping of copy number to color. Defaults to palettable (see below)
+        orientation: orientation of the plot.
+        '''
+
+        balance_6 = palettable.cmocean.diverging.Balance_6.mpl_colors
+        color_dict = {0: {'facecolor': (0,0,0), 'alpha': 0.5}, 1: {'facecolor': balance_6[1], 'alpha': 0.5},
+                      2: {'facecolor': (1,1,1)}, 3: {'facecolor': balance_6[-2], 'alpha': 0.5}}
+
+        # an ugly hack to introduce higher amplifications
+        for cn in range(4, 100):
+            color_dict[cn] = {'facecolor': balance_6[-2]}
+
+        self.color_dict = color_dict
+
+        for index, seg in self.segments.iterrows():
+
+            start, end, chrom = seg['start'], seg['end'], seg['chrom']
+            total_cn = seg[total_cn_col]
+
+            if chrom == 23: chrom = 'X'
+            if chrom == 24: chrom = 'Y'
+
+            # plot total copy number
+            chrom_start = self._chrom_dict[chrom]
+            ax.axvspan(xmin = chrom_start + start, xmax = chrom_start + end, 
+                       ymin = 0, ymax = 1, **color_dict[total_cn])
+
+        # plot chromosome breaks
+        labels, locs = [], []
+        for index, row in self.chrom_df.iterrows():
+            chrom = row['chrom']
+            if not chrom in ['X', 'Y']:
+                labels.append(chrom)
+                x_break = self._chrom_dict[chrom]
+                locs.append(x_break + row['length']/2)
+
+                # no need for division at chrom 1
+                if chrom == 1: continue
+                ax.plot([x_break, x_break], [0, 1], color = 'black', linestyle = 'dotted')
+
+        ax.set_xticks(locs)
+        ax.set_xticklabels(labels)
+        ax.set_ylim([0, 1])
+        ax.set_xlim([0, self._chrom_dict['X']])
+        ax.set_ylabel(self.sampleid)
+        ax.set_yticklabels([])
+        ax.tick_params(axis = 'x', length=0)
+        ax.tick_params(axis = 'y', length=0)
+
+        ax.spines['right'].set_visible(False)
+        ax.spines['top'].set_visible(False) 
+        ax.spines['left'].set_visible(False)
+
+        return ax
